@@ -25,7 +25,7 @@ other Miku-related news.
 
 # Timetable
 
-|Event|Concert 1<br/>Best for Americas|Concert 2<br/>Best for Japan|Concert 3<br/>Best for Europe|
+|Event|Airing 1<br/>Best for Americas|Airing 2<br/>Best for Japan|Airing 3<br/>Best for Europe|
 |-----|-----------------------------|--------------------------|---------------------------|
 ||June 5<br/>Saturday Night|June 6<br/>Sunday Night|June 6<br/>Sunday Afternoon|
 |Pre-show|[Countdown](http://preshow.us.39music.rocks)<br/>6 pm PDT / 9 pm EDT|[Countdown](http://preshow.jp.39music.rocks)<br/>5 pm JST|[Countdown](http://preshow.eu.39music.rocks)<br/>2 pm CEST / 1 pm BST|
