@@ -15,7 +15,7 @@ time. Please see the official [Guidebook](https://mikuexpo.com/online2021/images
 
 'Digital Stars' is a companion event to the concert; this is a DJ event where
 Vocaloid producers will stream a set. If you have the time, please join it as
-well! It will not bw available on YouTube, so please tune into
+well! It will not be available on YouTube, so please tune into
 [Twitch](https://www.twitch.tv/cfm_official).
 
 ## What is the pre-show?
@@ -27,9 +27,9 @@ other Miku-related news.
 
 |Event|Concert 1<br/>Best for Americas|Concert 2<br/>Best for Japan|Concert 3<br/>Best for Europe|
 |-----|-----------------------------|--------------------------|---------------------------|
-|Day|June 5<br/>Saturday Night|June 6<br/>Sunday Night|June 6<br/>Sunday Afternoon|
+||June 5<br/>Saturday Night|June 6<br/>Sunday Night|June 6<br/>Sunday Afternoon|
 |Pre-show|[Countdown](http://preshow.us.39music.rocks)<br/>6 pm PDT / 9 pm EDT|[Countdown](http://preshow.jp.39music.rocks)<br/>5 pm JST|[Countdown](http://preshow.eu.39music.rocks)<br/>2 pm CEST / 1 pm BST|
-|Digital Stars|[Countdown](http://digistars.us.39music.rocks)<br/>7 pm PDT / 10 pm EDT.<br/>[Flanger Moose](https://twitter.com/FlangerMoose), [Tokyo Elvis](https://twitter.com/FrankFriend)|[Countdown](http://digistars.jp.39music.rocks)<br/>6 pm JST<br/>[PinocchioP](https://twitter.com/pinocchiop), [Utsu-P](https://twitter.com/asshole_wii)|[Countdown](http://digistars.eu.39music.rocks)<br/>3 pm CEST / 2 pm BST<br/>[KIRA](https://twitter.com/kira_prod), [Vault Kid](https://twitter.com/iamVaultKid)|
+|Digital Stars|[Countdown](http://digistars.us.39music.rocks)<br/>7 pm PDT / 10 pm EDT<br/>[Flanger Moose](https://twitter.com/FlangerMoose), [Tokyo Elvis](https://twitter.com/FrankFriend)|[Countdown](http://digistars.jp.39music.rocks)<br/>6 pm JST<br/>[PinocchioP](https://twitter.com/pinocchiop), [Utsu-P](https://twitter.com/asshole_wii)|[Countdown](http://digistars.eu.39music.rocks)<br/>3 pm CEST / 2 pm BST<br/>[KIRA](https://twitter.com/kira_prod), [Vault Kid](https://twitter.com/iamVaultKid)|
 |Concert|[Countdown](http://concert.us.39music.rocks)<br/>8:30 pm PDT / 11:30 pm EDT|[Countdown](http://concert.jp.39music.rocks)<br/>7:30 pm JST|[Countdown](http://concert.eu.39music.rocks)<br/>4:30 pm CEST / 3:30 pm BST|
 
 ## Digital Stars Radio
