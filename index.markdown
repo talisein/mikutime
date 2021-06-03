@@ -21,7 +21,8 @@ other Miku-related news.
 
 # Timetable
 
-||Event||Concert 1 - Best for Americas||Concert 2 - Best for Japan||Concert 3 - Best for Europe||
+|Event|Concert 1 - Best for Americas|Concert 2 - Best for Japan|Concert 3 - Best for Europe|
+|-----|-----------------------------|--------------------------|---------------------------|
 |Pre-show|[Countdown](http://preshow.us.39music.rocks) 6 pm PDT 9 pm EDT|[Countdown](http://preshow.jp.39music.rocks) 5 pm JST|[Countdown](http://preshow.eu.39music.rocks) 2 pm CEST 1 pm BST|
 |Digital Stars DJ|[Countdown](http://digistars.us.39music.rocks) 7 pm PDT 10 pm EDT|[Countdown](http://digistars.jp.39music.rocks) 6 pm JST|[Countdown](http://digistars.eu.39music.rocks) 3 pm CEST 2 pm BST|
 |Concert|[Countdown](http://concert.us.39music.rocks) 8:30 pm PDT 11:30 pm EDT|[Countdown](http://concert.jp.39music.rocks) 7:30 pm JST|[Countdown](http://concert.eu.39music.rocks) 4:30 pm CEST 3:30 pm BST|
