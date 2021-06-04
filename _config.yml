@@ -30,8 +30,9 @@ github_username:  talisein
 
 # Build settings
 theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-youtube
+  #  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
