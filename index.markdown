@@ -25,16 +25,18 @@ other Miku-related news.
 
 # Timetable
 
+{% assign timetable = site.static_files | where: "basename", "timetable_en" | first %}
+
+If you're really excited you can watch everything! Here's the [official
+timeline]({{ timetable.path }}) (in JST). Otherwise, choose one of the airings
+best for your region below:
+
 |Event|Airing 1<br/>Best for Americas|Airing 2<br/>Best for Japan|Airing 3<br/>Best for Europe|
 |-----|-----------------------------|--------------------------|---------------------------|
 ||June 5<br/>Saturday Night|June 6<br/>Sunday Night|June 6<br/>Sunday Afternoon|
 |Pre-show|6 pm PDT<br/>9 pm EDT<br/>[Countdown](http://preshow.us.39music.rocks)|5 pm JST<br/><br/>[Countdown](http://preshow.jp.39music.rocks)|2 pm CEST<br/>1 pm BST<br/>[Countdown](http://preshow.eu.39music.rocks)|
 |Digital Stars|7 pm PDT<br/>10 pm EDT<br/>[Flanger Moose](https://twitter.com/FlangerMoose)<br/>[Tokyo Elvis](https://twitter.com/FrankFriend)<br/>[Countdown](http://digistars.us.39music.rocks)|6 pm JST<br/><br/>[PinocchioP](https://twitter.com/pinocchiop)<br/>[Utsu-P](https://twitter.com/asshole_wii)<br/>[Countdown](http://digistars.jp.39music.rocks)|3 pm CEST<br/>2 pm BST<br/>[KIRA](https://twitter.com/kira_prod)<br/>[Vault Kid](https://twitter.com/iamVaultKid)<br/>[Countdown](http://digistars.eu.39music.rocks)|
 |Concert|8:30 pm PDT<br/>11:30 pm EDT<br/>[Countdown](http://concert.us.39music.rocks)|7:30 pm JST<br/><br/>[Countdown](http://concert.jp.39music.rocks)|4:30 pm CEST<br/>3:30 pm BST<br/>[Countdown](http://concert.eu.39music.rocks)|
-
-{% assign timetable = site.static_files | where: "basename", "timetable_en" | first %}
-
-... of course if you're really excited you can watch everything! Here's the [official timeline]({{ timetable.path }}) (in JST)
 
 ## Digital Stars Radio
 
