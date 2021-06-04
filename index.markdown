@@ -28,7 +28,7 @@ other Miku-related news.
 |Event|Airing 1<br/>Best for Americas|Airing 2<br/>Best for Japan|Airing 3<br/>Best for Europe|
 |-----|-----------------------------|--------------------------|---------------------------|
 ||June 5<br/>Saturday Night|June 6<br/>Sunday Night|June 6<br/>Sunday Afternoon|
-|Pre-show|[Countdown](http://preshow.us.39music.rocks)<br/>6 pm PDT / 9 pm EDT|[Countdown](http://preshow.jp.39music.rocks)<br/>5 pm JST|[Countdown](http://preshow.eu.39music.rocks)<br/>2 pm CEST / 1 pm BST|
+|Pre-show|6 pm PDT<br/>9 pm EDT<br/>[Countdown](http://preshow.us.39music.rocks)|5 pm JST<br/>[Countdown](http://preshow.jp.39music.rocks)|2 pm CEST<br/>1 pm BST<br/>[Countdown](http://preshow.eu.39music.rocks)|
 |Digital Stars|[Countdown](http://digistars.us.39music.rocks)<br/>7 pm PDT / 10 pm EDT<br/>[Flanger Moose](https://twitter.com/FlangerMoose), [Tokyo Elvis](https://twitter.com/FrankFriend)|[Countdown](http://digistars.jp.39music.rocks)<br/>6 pm JST<br/>[PinocchioP](https://twitter.com/pinocchiop), [Utsu-P](https://twitter.com/asshole_wii)|[Countdown](http://digistars.eu.39music.rocks)<br/>3 pm CEST / 2 pm BST<br/>[KIRA](https://twitter.com/kira_prod), [Vault Kid](https://twitter.com/iamVaultKid)|
 |Concert|[Countdown](http://concert.us.39music.rocks)<br/>8:30 pm PDT / 11:30 pm EDT|[Countdown](http://concert.jp.39music.rocks)<br/>7:30 pm JST|[Countdown](http://concert.eu.39music.rocks)<br/>4:30 pm CEST / 3:30 pm BST|
 
