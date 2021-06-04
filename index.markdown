@@ -11,18 +11,6 @@ free on [Twitch](https://www.twitch.tv/cfm_official) and
 separate showings so everyone around the world can watch at a convienent
 time. Please see the official [Guidebook](https://mikuexpo.com/online2021/images/freepaper_en.pdf).
 
-## What is Digital Stars?
-
-'Digital Stars' is a companion event to the concert; this is a DJ event where
-Vocaloid producers will stream a set. If you have the time, please join it as
-well! It will not be available on YouTube, so please tune into
-[Twitch](https://www.twitch.tv/cfm_official).
-
-## What is the pre-show?
-
-We don't know, but I expect they will review how the Kickstarter went and share
-other Miku-related news.
-
 # Timetable
 
 {% assign timetable = site.static_files | where: "basename", "timetable_en" | first %}
@@ -38,7 +26,19 @@ best for your region below:
 |Digital Stars|7 pm PDT<br/>10 pm EDT<br/>[Flanger Moose](https://twitter.com/FlangerMoose)<br/>[Tokyo Elvis](https://twitter.com/FrankFriend)<br/>[Countdown](http://digistars.us.39music.rocks)|6 pm JST<br/><br/>[PinocchioP](https://twitter.com/pinocchiop)<br/>[Utsu-P](https://twitter.com/asshole_wii)<br/>[Countdown](http://digistars.jp.39music.rocks)|3 pm CEST<br/>2 pm BST<br/>[KIRA](https://twitter.com/kira_prod)<br/>[Vault Kid](https://twitter.com/iamVaultKid)<br/>[Countdown](http://digistars.eu.39music.rocks)|
 |Concert|8:30 pm PDT<br/>11:30 pm EDT<br/>[Countdown](http://concert.us.39music.rocks)|7:30 pm JST<br/><br/>[Countdown](http://concert.jp.39music.rocks)|4:30 pm CEST<br/>3:30 pm BST<br/>[Countdown](http://concert.eu.39music.rocks)|
 
-## Digital Stars Radio
+## What is Digital Stars?
+
+'Digital Stars' is a companion event to the concert; this is a DJ event where
+Vocaloid producers will stream a set. If you have the time, please join it as
+well! It will not be available on YouTube, so please tune into
+[Twitch](https://www.twitch.tv/cfm_official).
+
+## What is the pre-show?
+
+We don't know, but I expect they will review how the Kickstarter went and share
+other Miku-related news.
+
+## What is Digital Stars Radio?
 
 Digital Stars Radio has been a monthly Twitch stream from Crypton Future
 Media. This special Miku Expo edition will review the other Miku Expo Online
