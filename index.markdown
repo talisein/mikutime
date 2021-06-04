@@ -32,6 +32,10 @@ other Miku-related news.
 |Digital Stars|[Countdown](http://digistars.us.39music.rocks)<br/>7 pm PDT / 10 pm EDT<br/>[Flanger Moose](https://twitter.com/FlangerMoose), [Tokyo Elvis](https://twitter.com/FrankFriend)|[Countdown](http://digistars.jp.39music.rocks)<br/>6 pm JST<br/>[PinocchioP](https://twitter.com/pinocchiop), [Utsu-P](https://twitter.com/asshole_wii)|[Countdown](http://digistars.eu.39music.rocks)<br/>3 pm CEST / 2 pm BST<br/>[KIRA](https://twitter.com/kira_prod), [Vault Kid](https://twitter.com/iamVaultKid)|
 |Concert|[Countdown](http://concert.us.39music.rocks)<br/>8:30 pm PDT / 11:30 pm EDT|[Countdown](http://concert.jp.39music.rocks)<br/>7:30 pm JST|[Countdown](http://concert.eu.39music.rocks)<br/>4:30 pm CEST / 3:30 pm BST|
 
+{% assign timetable = site.static_files | where: "basename", "timetable_en" | first %}
+
+... of course if you're really excited you can watch everything! Here's the [official timeline]({{ timetable.path }}) (in JST)
+
 ## Digital Stars Radio
 
 Digital Stars Radio has been a monthly Twitch stream from Crypton Future

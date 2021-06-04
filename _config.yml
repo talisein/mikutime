@@ -30,6 +30,13 @@ github_username:  talisein
 
 # Build settings
 theme: minima
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 #plugins:
 #  - jekyll-feed
 
