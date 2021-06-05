@@ -17,8 +17,11 @@ time. Please see the official [Guidebook](https://mikuexpo.com/online2021/images
 {% assign timetable_us = site.static_files | where: "basename", "timetable_us" | first %}
 
 If you're really excited you can watch everything! Here's the [official
-timeline]({{ timetable_official.path }}) (in JST). Otherwise, choose one of the
-airings best for your region below:
+timeline]({{ timetable_official.path }}) (in JST), and here's a [spreadsheet
+with many
+timezones](https://docs.google.com/spreadsheets/d/134aVgd77kekoFsfyyhN9Ls1PacfMagfyUafANrC4Dn8/edit?usp=sharing). If
+you need something simpler, choose one of the airings best for your region
+below:
 
 |Event|Airing 1<br/>Best for Americas|Airing 2<br/>Best for Japan|Airing 3<br/>Best for Europe|
 |-----|-----------------------------|--------------------------|---------------------------|
