@@ -23,7 +23,7 @@ best for your region below:
 |-----|-----------------------------|--------------------------|---------------------------|
 ||June 5<br/>Saturday Night|June 6<br/>Sunday Night|June 6<br/>Sunday Afternoon|
 |Pre-show|6 pm PDT<br/>9 pm EDT<br/>[Countdown](http://preshow.us.39music.rocks)|5 pm JST<br/><br/>[Countdown](http://preshow.jp.39music.rocks)|2 pm CEST<br/>1 pm BST<br/>[Countdown](http://preshow.eu.39music.rocks)|
-|Digital Stars|7 pm PDT<br/>10 pm EDT<br/>[Flanger Moose](https://twitter.com/FlangerMoose)<br/>[Tokyo Elvis](https://twitter.com/FrankFriend)<br/>[Countdown](http://digistars.us.39music.rocks)|6 pm JST<br/><br/>[PinocchioP](https://twitter.com/pinocchiop)<br/>[Utsu-P](https://twitter.com/asshole_wii)<br/>[Countdown](http://digistars.jp.39music.rocks)|3 pm CEST<br/>2 pm BST<br/>[KIRA](https://twitter.com/kira_prod)<br/>[Vault Kid](https://twitter.com/iamVaultKid)<br/>[Countdown](http://digistars.eu.39music.rocks)|
+|Digital Stars|6:55 pm PDT<br/>9:55 pm EDT<br/>[Flanger Moose](https://twitter.com/FlangerMoose)<br/>[Tokyo Elvis](https://twitter.com/FrankFriend)<br/>[Countdown](http://digistars.us.39music.rocks)|5:55 pm JST<br/><br/>[PinocchioP](https://twitter.com/pinocchiop)<br/>[Utsu-P](https://twitter.com/asshole_wii)<br/>[Countdown](http://digistars.jp.39music.rocks)|2:55 pm CEST<br/>1:55 pm BST<br/>[KIRA](https://twitter.com/kira_prod)<br/>[Vault Kid](https://twitter.com/iamVaultKid)<br/>[Countdown](http://digistars.eu.39music.rocks)|
 |Concert|8:30 pm PDT<br/>11:30 pm EDT<br/>[Countdown](http://concert.us.39music.rocks)|7:30 pm JST<br/><br/>[Countdown](http://concert.jp.39music.rocks)|4:30 pm CEST<br/>3:30 pm BST<br/>[Countdown](http://concert.eu.39music.rocks)|
 
 ## What is Digital Stars?
@@ -42,7 +42,8 @@ other Miku-related news.
 
 Digital Stars Radio has been a monthly Twitch stream from Crypton Future
 Media. This special Miku Expo edition will review the other Miku Expo Online
-activities: Let's Paint 3.0 and #MikuWorldGallery
+activities: Let's Paint 3.0 and #MikuWorldGallery. The English stream will be on
+Twitch, while YouTube will have the Japanese language stream.
 
 |Timezone|Time|Day|
 |--------|----|---|
