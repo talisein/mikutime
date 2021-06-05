@@ -13,11 +13,12 @@ time. Please see the official [Guidebook](https://mikuexpo.com/online2021/images
 
 # Timetable
 
-{% assign timetable = site.static_files | where: "basename", "timetable_en" | first %}
+{% assign timetable_official = site.static_files | where: "basename", "timetable_en" | first %}
+{% assign timetable_us = site.static_files | where: "basename", "timetable_us" | first %}
 
 If you're really excited you can watch everything! Here's the [official
-timeline]({{ timetable.path }}) (in JST). Otherwise, choose one of the airings
-best for your region below:
+timeline]({{ timetable_official.path }}) (in JST). Otherwise, choose one of the
+airings best for your region below:
 
 |Event|Airing 1<br/>Best for Americas|Airing 2<br/>Best for Japan|Airing 3<br/>Best for Europe|
 |-----|-----------------------------|--------------------------|---------------------------|
@@ -25,6 +26,9 @@ best for your region below:
 |Pre-show|6 pm PDT<br/>9 pm EDT<br/>[Countdown](http://preshow.us.39music.rocks)|5 pm JST<br/><br/>[Countdown](http://preshow.jp.39music.rocks)|2 pm CEST<br/>1 pm BST<br/>[Countdown](http://preshow.eu.39music.rocks)|
 |Digital Stars|6:55 pm PDT<br/>9:55 pm EDT<br/>[Flanger Moose](https://twitter.com/FlangerMoose)<br/>[Tokyo Elvis](https://twitter.com/FrankFriend)<br/>[Countdown](http://digistars.us.39music.rocks)|5:55 pm JST<br/><br/>[PinocchioP](https://twitter.com/pinocchiop)<br/>[Utsu-P](https://twitter.com/asshole_wii)<br/>[Countdown](http://digistars.jp.39music.rocks)|2:55 pm CEST<br/>1:55 pm BST<br/>[KIRA](https://twitter.com/kira_prod)<br/>[Vault Kid](https://twitter.com/iamVaultKid)<br/>[Countdown](http://digistars.eu.39music.rocks)|
 |Concert|8:30 pm PDT<br/>11:30 pm EDT<br/>[Countdown](http://concert.us.39music.rocks)|7:30 pm JST<br/><br/>[Countdown](http://concert.jp.39music.rocks)|4:30 pm CEST<br/>3:30 pm BST<br/>[Countdown](http://concert.eu.39music.rocks)|
+
+### Full Timetable, PDT/EDT
+![]({{ timetable_us.path }})
 
 ## What is Digital Stars?
 
