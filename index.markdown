@@ -9,9 +9,14 @@ layout: home
 
 Crowdfunded by a Kickstarter, Miku Expo Online is being presented this year for
 free on [Twitch](https://www.twitch.tv/cfm_official) and
-[YouTube](https://www.youtube.com/channel/UCJwGWV914kBlV4dKRn7AEFA). There are 3
+[YouTube](https://www.youtube.com/watch?v=VSgsjXk2BVM). There are 3
 separate showings so everyone around the world can watch at a convienent
 time. Please see the official [Guidebook]({{ guidebook.path }}).
+
+# WATCH HERE
+## [YOUTUBE](https://www.youtube.com/watch?v=VSgsjXk2BVM)
+
+## [TWITCH](https://www.twitch.tv/cfm_official)
 
 # Timetable
 
