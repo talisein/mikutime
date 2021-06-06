@@ -48,8 +48,8 @@ well! It will not be available on YouTube, so please tune into
 
 ## What is the pre-show?
 
-The pre-show  is a pre-recorded  medley of a few  Song Contest winners  and Expo
-theme songs, with  a lot of ads  inbetween. There is no exclusive  footage so if
+The pre-show is a pre-recorded medley of a few Song Contest winners and Expo
+theme songs, with a lot of ads inbetween. There is no exclusive footage so if
 you can't watch it, you're not missing much.
 
 
