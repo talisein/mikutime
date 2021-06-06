@@ -13,10 +13,9 @@ free on [Twitch](https://www.twitch.tv/cfm_official) and
 separate showings so everyone around the world can watch at a convienent
 time. Please see the official [Guidebook]({{ guidebook.path }}).
 
-# WATCH HERE
-## [YOUTUBE](https://www.youtube.com/watch?v=VSgsjXk2BVM)
+# [WATCH ON YOUTUBE](https://www.youtube.com/watch?v=VSgsjXk2BVM)
 
-## [TWITCH](https://www.twitch.tv/cfm_official)
+# [WATCH ON TWITCH](https://www.twitch.tv/cfm_official)
 
 # Timetable
 
