@@ -47,5 +47,5 @@ Learn more about the DJs:
 |Reno|[@reno_gtgtgt](https://twitter.com/reno_gtgtgt)|[Youtube](https://www.youtube.com/channel/UC9h7FZq6wIzF_wg7BEpVIbA)|[Rebuild!](https://www.youtube.com/watch?v=c4_MB0bwuos)|
 |coa white|[@coawhite96](https://twitter.com/coawhite96)|[Soundcloud](https://soundcloud.com/coawhite)|[STEP O E O STEP](https://www.youtube.com/watch?v=fvSLTEEKPrk)|
 |KOTONOHOUSE|[@KOTONOHOUSE](https://twitter.com/kotonohouse)|[Soundcloud](https://soundcloud.com/dada-qada)|[Re:Package remix](https://soundcloud.com/dada-qada/livetune-kotonohouse-repackage), [Gravity](https://soundcloud.com/dada-qada/gravity)|
-|gaburyu & nyankobrq|[@gabustep](https://twitter.com/gabustep) & [@nyankobrq](https://twitter.com/nyankobrq)||[Sweety Glitch](https://www.youtube.com/watch?v=GXT88-9w2aI), [Swim](https://youtu.be/w4AMAwjweEc), [Afternoon](https://www.youtube.com/watch?v=X-Co7Vq1eks)|
-|kz(livetune)|[@kz_lt](https://twitter.com/kz_lt)|[Youtube](https://www.youtube.com/channel/UCQcboHvGXFE5vuy2AK2MUOg)]|its kz.|
+|gaburyu & nyankobrq|[@gabustep](https://twitter.com/gabustep) & [@nyankobrq](https://twitter.com/nyankobrq)|[Youtube](https://www.youtube.com/playlist?list=PLmnvJgQL8hd5hyXYVoP9WqUGHyqZDRZ9N)|[Sweety Glitch](https://www.youtube.com/watch?v=GXT88-9w2aI), [Swim](https://youtu.be/w4AMAwjweEc), [Afternoon](https://www.youtube.com/watch?v=X-Co7Vq1eks)|
+|kz(livetune)|[@kz_lt](https://twitter.com/kz_lt)|[Youtube](https://www.youtube.com/channel/UCQcboHvGXFE5vuy2AK2MUOg)|its kz.|
