@@ -15,7 +15,9 @@ Glitch](https://www.youtube.com/watch?v=GXT88-9w2aI) by gaburyu & nyankobrq.
 # [Watch on Twitch](https://www.twitch.tv/cfm_official)
 
 # Timetable
+
 |DJ|PDT|EDT|BST|CEST|JST|
+|--|---|---|---|----|---|
 |Balynsus|00:00|03:00|08:00|09:00|16:00|
 |Osanzi|00:30|03:30|08:30|09:30|16:30|
 |Ocelot|01:00|04:00|09:00|10:00|17:00|
