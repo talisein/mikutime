@@ -49,3 +49,10 @@ Learn more about the DJs:
 |KOTONOHOUSE|[@KOTONOHOUSE](https://twitter.com/kotonohouse)|[Soundcloud](https://soundcloud.com/dada-qada)|[Re:Package remix](https://soundcloud.com/dada-qada/livetune-kotonohouse-repackage), [Gravity](https://soundcloud.com/dada-qada/gravity)|
 |gaburyu & nyankobrq|[@gabustep](https://twitter.com/gabustep) & [@nyankobrq](https://twitter.com/nyankobrq)|[Youtube](https://www.youtube.com/playlist?list=PLmnvJgQL8hd5hyXYVoP9WqUGHyqZDRZ9N)|[Sweety Glitch](https://www.youtube.com/watch?v=GXT88-9w2aI), [Swim](https://youtu.be/w4AMAwjweEc), [Afternoon](https://www.youtube.com/watch?v=X-Co7Vq1eks)|
 |kz(livetune)|[@kz_lt](https://twitter.com/kz_lt)|[Youtube](https://www.youtube.com/channel/UCQcboHvGXFE5vuy2AK2MUOg)|its kz.|
+
+# Digital Stars Radio
+On Friday/Saturday, Digital Stars Radio will be aired on Twitch as well.
+
+|PDT|EDT|BST|CEST|JST|
+|---|---|---|----|---|
+|Friday, 5 PM|Friday, 8 PM|Saturday, 1 AM|Saturday, 2 AM|Saturday, 9 AM|
