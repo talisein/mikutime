@@ -50,14 +50,13 @@ Learn more about the DJs:
 |gaburyu & nyankobrq|[@gabustep](https://twitter.com/gabustep) & [@nyankobrq](https://twitter.com/nyankobrq)|[Youtube](https://www.youtube.com/playlist?list=PLmnvJgQL8hd5hyXYVoP9WqUGHyqZDRZ9N)|[Sweety Glitch](https://www.youtube.com/watch?v=GXT88-9w2aI), [Swim](https://youtu.be/w4AMAwjweEc), [Afternoon](https://www.youtube.com/watch?v=X-Co7Vq1eks)|
 |kz(livetune)|[@kz_lt](https://twitter.com/kz_lt)|[Youtube](https://www.youtube.com/channel/UCQcboHvGXFE5vuy2AK2MUOg)|its kz.|
 
-# Digital Stars Radio
-On Friday/Saturday Aug 27, Digital Stars Radio will be aired on Twitch as
-well. Digital Stars Radio is a monthly stream from CFM that covers news about
-Digital Stars as well as other Crypton events.
+# Miku x Gumi Digital Stars
 
-The following will be in Japanese language. The English language version is
-already available as a VOD to Twitch channel subscribers.
+After August 29th, the next major Digital Stars event will be November
+21st. This stream is a Miku x Gumi collaboration Digital Stars. The theme song
+is [アンサング・メロディー](https://www.youtube.com/watch?v=ohbSbLRJFeE) by
+monaca:factory.
 
-|PDT|EDT|BST|CEST|JST|
-|---|---|---|----|---|
-|Friday, 11 PM|Saturday, 2 AM|Saturday, 7 AM|Saturday, 8 AM|Saturday, 3 PM|
+|PST|EST|GMT|CET|JST|
+|---|---|---|---|---|
+|Saturday Nov 20, 11 PM|Sunday Nov 21, 2 AM|Sunday Nov 21, 7 AM|Sunday Nov 21, 8 AM|Sunday Nov 21, 4 PM|
