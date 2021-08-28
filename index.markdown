@@ -50,12 +50,13 @@ Learn more about the DJs:
 |gaburyu & nyankobrq|[@gabustep](https://twitter.com/gabustep) & [@nyankobrq](https://twitter.com/nyankobrq)|[Youtube](https://www.youtube.com/playlist?list=PLmnvJgQL8hd5hyXYVoP9WqUGHyqZDRZ9N)|[Sweety Glitch](https://www.youtube.com/watch?v=GXT88-9w2aI), [Swim](https://youtu.be/w4AMAwjweEc), [Afternoon](https://www.youtube.com/watch?v=X-Co7Vq1eks)|
 |kz(livetune)|[@kz_lt](https://twitter.com/kz_lt)|[Youtube](https://www.youtube.com/channel/UCQcboHvGXFE5vuy2AK2MUOg)|its kz.|
 
-# Miku x Gumi Digital Stars
+# Miku x GUMI Digital Stars
 
-After August 29th, the next major Digital Stars event will be November
-21st. This stream is a Miku x Gumi collaboration Digital Stars. The theme song
-is [アンサング・メロディー](https://www.youtube.com/watch?v=ohbSbLRJFeE) by
-monaca:factory.
+After August 29th, the [next major Digital Stars
+event](https://digitalstars.club/dsmg21/index.html) will be November 21st. This
+stream is a Miku x GUMI collaboration Digital Stars. The theme song is [Unsung
+Melodies](https://www.youtube.com/watch?v=ohbSbLRJFeE) by
+[monaca:factory](https://monacafactory.com).
 
 |PST|EST|GMT|CET|JST|
 |---|---|---|---|---|
