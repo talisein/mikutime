@@ -51,8 +51,13 @@ Learn more about the DJs:
 |kz(livetune)|[@kz_lt](https://twitter.com/kz_lt)|[Youtube](https://www.youtube.com/channel/UCQcboHvGXFE5vuy2AK2MUOg)|its kz.|
 
 # Digital Stars Radio
-On Friday/Saturday, Digital Stars Radio will be aired on Twitch as well.
+On Friday/Saturday Aug 27, Digital Stars Radio will be aired on Twitch as
+well. Digital Stars Radio is a monthly stream from CFM that covers news about
+Digital Stars as well as other Crypton events.
+
+The following will be in Japanese language. The English language version is
+already available as a VOD to Twitch channel subscribers.
 
 |PDT|EDT|BST|CEST|JST|
 |---|---|---|----|---|
-|Friday, 5 PM|Friday, 8 PM|Saturday, 1 AM|Saturday, 2 AM|Saturday, 9 AM|
+|Friday, 11 PM|Saturday, 2 AM|Saturday, 7 AM|Saturday, 8 AM|Saturday, 3 PM|
