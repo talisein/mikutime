@@ -53,7 +53,7 @@ Learn more about the DJs:
 # Miku x GUMI Digital Stars
 
 After August 29th, the [next major Digital Stars
-event](https://digitalstars.club/dsmg21/index.html) will be November 21st. This
+event](https://digitalstars.club/dsmg21/index_en.html) will be November 21st. This
 stream is a Miku x GUMI collaboration Digital Stars. The theme song is [Unsung
 Melodies](https://www.youtube.com/watch?v=ohbSbLRJFeE) by
 [monaca:factory](https://monacafactory.com).
