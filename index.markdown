@@ -20,7 +20,8 @@ is [Unsung Melodies](https://www.youtube.com/watch?v=ohbSbLRJFeE) by
 [monaca:factory](https://monacafactory.com). You'll be able to watch the stream
 on [Twitch](https://www.twitch.tv/cfm_official).
 
-|PST Los Angeles|EST New York|GMT London|CET Paris|JST Tokyo|
+|PST|EST|GMT|CET|JST|
+|Los Angeles|New York|London|Paris|Tokyo|
 |---|---|---|---|---|
 |Saturday Nov 20, 11 PM|Sunday Nov 21, 2 AM|Sunday Nov 21, 7 AM|Sunday Nov 21, 8 AM|Sunday Nov 21, 4 PM|
 
