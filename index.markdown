@@ -9,10 +9,7 @@ layout: home
 
 Digital Stars is a [vocal synth DJ music
 stream](https://digitalstars.club/hmds21/index.html) run by Crypton Future
-Media. The theme song for the August event is [Sweety
-Glitch](https://www.youtube.com/watch?v=GXT88-9w2aI) by gaburyu & nyankobrq.
-
-# [Watch on Twitch](https://www.twitch.tv/cfm_official)
+Media.
 
 # Miku x GUMI Digital Stars
 
@@ -20,9 +17,10 @@ The [next major Digital Stars
 event](https://digitalstars.club/dsmg21/index_en.html) will be November
 21st. This stream is a Miku x GUMI collaboration Digital Stars. The theme song
 is [Unsung Melodies](https://www.youtube.com/watch?v=ohbSbLRJFeE) by
-[monaca:factory](https://monacafactory.com).
+[monaca:factory](https://monacafactory.com). You'll be able to watch the stream
+on [Twitch](https://www.twitch.tv/cfm_official).
 
-|PST|EST|GMT|CET|JST|
+|PST Los Angeles|EST New York|GMT London|CET Paris|JST Tokyo|
 |---|---|---|---|---|
 |Saturday Nov 20, 11 PM|Sunday Nov 21, 2 AM|Sunday Nov 21, 7 AM|Sunday Nov 21, 8 AM|Sunday Nov 21, 4 PM|
 
