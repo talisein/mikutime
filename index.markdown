@@ -13,7 +13,7 @@ This month's Digistars Radio will feature the remix production process.
 
 |PDT|EDT|BST|CEST|JST|
 |Los Angeles|New York|London|Paris|Tokyo|
-|---|---|---|----|---|
+| :---: | :---: | :---: | :---: | :---: |
 |Friday Sep 24, 5 PM|Friday Sep 24, 8 PM|Saturday Sep 25, 1 AM|Saturday Sep 25, 2 AM|Saturday Sep 25, 9 AM|
 
 
