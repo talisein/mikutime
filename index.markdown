@@ -7,6 +7,17 @@ layout: home
 
 {% assign guidebook = site.static_files | where: "basename", "freepaper_en" | first %}
 
+# Digital Stars Radio - September 25th
+
+This month's Digistars Radio will feature the remix production process.
+
+|PDT|EDT|BST|CEST|JST|
+|Los Angeles|New York|London|Paris|Tokyo|
+|---|---|---|----|---|
+|Friday Sep 24, 5 PM|Friday Sep 24, 8 PM|Saturday Sep 25, 1 AM|Saturday Sep 25, 2 AM|Saturday Sep 25, 9 AM|
+
+
+
 Digital Stars is a [vocal synth DJ music
 stream](https://digitalstars.club/hmds21/index.html) run by Crypton Future
 Media.
