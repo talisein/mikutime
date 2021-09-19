@@ -7,7 +7,7 @@ layout: home
 
 {% assign guidebook = site.static_files | where: "basename", "freepaper_en" | first %}
 
-# Digital Stars Radio - September 25th
+# Digital Stars Radio - September 24th / 25th
 
 This month's Digistars Radio will feature the remix production process.
 
