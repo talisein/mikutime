@@ -7,17 +7,6 @@ layout: home
 
 {% assign guidebook = site.static_files | where: "basename", "freepaper_en" | first %}
 
-# Digital Stars Radio - September 24th / 25th
-
-This month's Digistars Radio will feature the remix production process.
-
-|PDT|EDT|BST|CEST|JST|
-|Los Angeles|New York|London|Paris|Tokyo|
-| :---: | :---: | :---: | :---: | :---: |
-|Friday Sep 24, 5 PM|Friday Sep 24, 8 PM|Saturday Sep 25, 1 AM|Saturday Sep 25, 2 AM|Saturday Sep 25, 9 AM|
-
-
-
 Digital Stars is a [vocal synth DJ music
 stream](https://digitalstars.club/hmds21/index.html) run by Crypton Future
 Media.
@@ -41,8 +30,8 @@ on [Twitch](https://www.twitch.tv/cfm_official).
 
 Learn more about the DJs from the August 29th stream:
 
-|DJ|Twitter|Youtube/soundcloud|Example Song|
-|--|-------|-------|------------|
+|DJ|Twitter|YouTube/Soundcloud|Example Song|
+|---|-------|-------|------------|
 |Balynsus|[@balynsus](https://twitter.com/balynsus)|[Soundcloud](https://soundcloud.com/balynsus)|[Sweety Glitch remix](https://soundcloud.com/balynsus/gaburyu-nyankobrq-feat-sweety-glitch-balynsus-remix)|
 |Osanzi|[@3_o_clocker](https://twitter.com/3_o_clocker)|[Youtube](https://www.youtube.com/c/osanzi)|[LiFE](https://www.youtube.com/watch?v=wrx90FSlyoI), [Sky High](https://www.youtube.com/watch?v=sGWOcwcWi-Y)|
 |Ocelot|[@rinx2musixxx](https://twitter.com/rinx2musixxx)|[Booth](https://kuronekolounge.booth.pm/)|[Aquamarine feat. Otomachi Una](https://www.nicovideo.jp/watch/sm38411202)|
