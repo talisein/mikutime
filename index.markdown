@@ -16,7 +16,7 @@ AM this same night* (we will fall an hour back) -- so you need to be very
 careful if you plan to watch it live!
 
 |PDT|MST|CST|EST|GMT|CET|JST|
-|Los Angeles|Denver|Chicago|New York|London|Paris|Tokyo|
+|Los<code>&nbsp;</code>Angeles|Denver|Chicago|New<code>&nbsp;</code>York|London|Paris|Tokyo|
 |---|---|---|---|---|---|---|
 |1:30 AM **BEFORE FALLING BACK**|1:30 AM **AFTER FALLING BACK**|2:30 AM|3:30 AM|8:30 AM|9:30 AM|5:30 PM|
 
