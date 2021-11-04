@@ -11,9 +11,9 @@ layout: home
 
 Magical Mirai will be [available as a live
 stream](https://magicalmirai.com/2021/tokyo_overview_en.html#tokyo_ticket_onlinelive)
-**this Sunday, November 7th**. In North America, the *Daylight Savings ends at 2
-AM this same night* (we will fall an hour back) -- so you need to be very
-careful if you plan to watch it live!
+**this Sunday, November 7th**. In North America, *Daylight Savings ends at 2 AM
+this same night* (we will fall an hour back) -- so you need to be very careful
+if you plan to watch it live!
 
 |PDT|MST|CST|EST|GMT|CET|JST|
 |Los&nbsp;Angeles|Denver|Chicago|New&nbsp;York|London|Paris|Tokyo|
@@ -46,4 +46,4 @@ on [Twitch](https://www.twitch.tv/cfm_official).
 |PST|EST|GMT|CET|JST|
 |Los&nbsp;Angeles|New&nbsp;York|London|Paris|Tokyo|
 | :---: | :---: | :---: | :---: | :---: |
-|Saturday Nov 20, 11&nbsp;PM|Sunday Nov 21, 2&nbsp;AM|Sunday Nov 21, 7&nbsp;AM|Sunday Nov 21, 8&nbsp;AM|Sunday Nov 21, 4&nbsp;PM|
+|Saturday Nov&nbsp;20, 11&nbsp;PM|Sunday Nov&nbsp;21, 2&nbsp;AM|Sunday Nov&nbsp;21, 7&nbsp;AM|Sunday Nov&nbsp;21, 8&nbsp;AM|Sunday Nov&nbsp;21, 4&nbsp;PM|
