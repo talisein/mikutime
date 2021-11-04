@@ -17,8 +17,8 @@ careful if you plan to watch it live!
 
 |PDT|MST|CST|EST|GMT|CET|JST|
 |Los&nbsp;Angeles|Denver|Chicago|New&nbsp;York|London|Paris|Tokyo|
-|---|---|---|---|---|---|---|
-|1:30 AM **BEFORE FALLING BACK**|1:30 AM **AFTER FALLING BACK**|2:30 AM|3:30 AM|8:30 AM|9:30 AM|5:30 PM|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1:30&nbsp;AM **BEFORE FALLING BACK**|1:30&nbsp;AM **AFTER FALLING BACK**|2:30&nbsp;AM|3:30&nbsp;AM|8:30&nbsp;AM|9:30&nbsp;AM|5:30&nbsp;PM|
 
 If you have any doubts, you can study [this timeanddate.com
 link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Magical+Mirai+Tokyo+Live+Stream&iso=20211107T1730&p1=248&ah=2&am=30)
@@ -44,6 +44,6 @@ is [Unsung Melodies](https://www.youtube.com/watch?v=ohbSbLRJFeE) by
 on [Twitch](https://www.twitch.tv/cfm_official).
 
 |PST|EST|GMT|CET|JST|
-|Los Angeles|New York|London|Paris|Tokyo|
+|Los&nbsp;Angeles|New&nbsp;York|London|Paris|Tokyo|
 | :---: | :---: | :---: | :---: | :---: |
-|Saturday Nov 20, 11 PM|Sunday Nov 21, 2 AM|Sunday Nov 21, 7 AM|Sunday Nov 21, 8 AM|Sunday Nov 21, 4 PM|
+|Saturday Nov 20, 11&nbsp;PM|Sunday Nov 21, 2&nbsp;AM|Sunday Nov 21, 7&nbsp;AM|Sunday Nov 21, 8&nbsp;AM|Sunday Nov 21, 4&nbsp;PM|
