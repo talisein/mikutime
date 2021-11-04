@@ -7,6 +7,21 @@ layout: home
 
 {% assign guidebook = site.static_files | where: "basename", "freepaper_en" | first %}
 
+# Magical Mirai Tokyo Stream
+
+Magical Mirai will be [available as a live
+stream](https://magicalmirai.com/2021/tokyo_overview_en.html#tokyo_ticket_onlinelive)
+this Sunday. In North America, the Daylight Savings rules will also be changing
+(we will fall an hour back) -- so you need to be very careful if you plan to
+watch it live!
+
+|PDT|MST|CST|EST|GMT|CET|JST|
+|Los Angeles|Denver|Chicago|New York|London|Paris|Tokyo|
+|---|---|---|---|---|---|---|
+|Sunday Nov 07, 1:30 AM BEFORE FALLING BACK|Sunday Nov 07, 1:30 AM AFTER FALLING BACK|Sunday Nov 07, 2:30 AM|Sunday Nov 07, 3:30 AM|Sunday Nov 07, 8:30 AM|Sunday Nov 07, 9:30 AM|Sunday Nov 07, 5:30 PM|
+
+# Digital Stars
+
 Digital Stars is a [vocal synth DJ music
 stream](https://digitalstars.club/hmds21/index.html) run by Crypton Future
 Media.
