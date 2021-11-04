@@ -20,7 +20,13 @@ careful if you plan to watch it live!
 |---|---|---|---|---|---|---|
 |1:30 AM **BEFORE FALLING BACK**|1:30 AM **AFTER FALLING BACK**|2:30 AM|3:30 AM|8:30 AM|9:30 AM|5:30 PM|
 
-If you miss the live stream, it will also be available on demand.
+If you have any doubts, you can study [this timeanddate.com
+link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Magical+Mirai+Tokyo+Live+Stream&iso=20211107T1730&p1=248&ah=2&am=30)
+or use this
+[countdown](https://www.timeanddate.com/countdown/payday?iso=20211107T1730&p0=248&msg=Magical+Mirai+Tokyo+Live+Stream&font=slab).
+
+If you miss the live stream, it will also be available for on demand viewing,
+roughly 24 hours afterwards.
 
 # Digital Stars
 
