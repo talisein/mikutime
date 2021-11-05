@@ -65,5 +65,5 @@ on [Twitch](https://www.twitch.tv/cfm_official).
 | :---: | :---: | :---: | :---: | :---: |
 |Saturday Nov&nbsp;20, 11&nbsp;PM|Sunday Nov&nbsp;21, 2&nbsp;AM|Sunday Nov&nbsp;21, 7&nbsp;AM|Sunday Nov&nbsp;21, 8&nbsp;AM|Sunday Nov&nbsp;21, 4&nbsp;PM|
 
-[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20x%20GUMI%20Digital%20Stars&dates=20211121T070000Z/20211121T090000Z)
+[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20x%20GUMI%20Digital%20Stars&dates=20211121T070000Z/20211121T090000Z).
 The Discord timestamp is <code><t:1637478000:F></code>
