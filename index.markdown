@@ -20,7 +20,7 @@ if you plan to watch it live!
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1:30&nbsp;AM **BEFORE FALLING BACK**|1:30&nbsp;AM **AFTER FALLING BACK**|2:30&nbsp;AM|3:30&nbsp;AM|8:30&nbsp;AM|9:30&nbsp;AM|5:30&nbsp;PM|
 
-[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Magical%20Mirai%20Livestream&dates=20211107T083000Z/20211107T103000Z).
+[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Magical%20Mirai%20Livestream&dates=20211107T083000Z/20211107T103000Z&Asia%2FTokyo).
 The Discord timestamp is <code><t:1636273800:F></code>
 
 If you have any doubts, you can study [this timeanddate.com
@@ -42,7 +42,7 @@ livestream (in years past it was an on site party). You can watch it for free on
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |04:00&nbsp;AM|07:00&nbsp;AM|11:00&nbsp;AM|12:00&nbsp;PM|08:00&nbsp;PM|
 
-[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Tsunagaru%20Mirai&dates=20211106T110000Z/20211106T130000Z).
+[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Tsunagaru%20Mirai&dates=20211106T110000Z/20211106T130000Z&Asia%2FTokyo).
 The Discord timestamp is <code><t:1636196400:F></code>
 
 # Digital Stars
@@ -65,5 +65,5 @@ on [Twitch](https://www.twitch.tv/cfm_official).
 | :---: | :---: | :---: | :---: | :---: |
 |Saturday Nov&nbsp;20, 11&nbsp;PM|Sunday Nov&nbsp;21, 2&nbsp;AM|Sunday Nov&nbsp;21, 7&nbsp;AM|Sunday Nov&nbsp;21, 8&nbsp;AM|Sunday Nov&nbsp;21, 4&nbsp;PM|
 
-[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20x%20GUMI%20Digital%20Stars&dates=20211121T070000Z/20211121T090000Z).
+[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20x%20GUMI%20Digital%20Stars&dates=20211121T070000Z/20211121T090000Z&Asia%2FTokyo).
 The Discord timestamp is <code><t:1637478000:F></code>
