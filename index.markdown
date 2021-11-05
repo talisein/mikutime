@@ -30,7 +30,7 @@ roughly 24 hours afterwards.
 
 # Tsunagaru Mirai
 
-[Tsunagaru Mirai](https://tsunagarumirai.com/2021/en.html) is a fan-made DJ
+[Tsunagaru Mirai](http://tsunagarumirai.com/2021/en.html) is a fan-made DJ
 livestream (in years past it was an on site party). You can watch it for free on
 [Twitch](https://twitch.tv/tsunagaru_mirai) **Saturday, November 6th**.
 
