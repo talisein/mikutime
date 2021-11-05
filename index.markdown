@@ -20,6 +20,8 @@ if you plan to watch it live!
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1:30&nbsp;AM **BEFORE FALLING BACK**|1:30&nbsp;AM **AFTER FALLING BACK**|2:30&nbsp;AM|3:30&nbsp;AM|8:30&nbsp;AM|9:30&nbsp;AM|5:30&nbsp;PM|
 
+The Discord timestamp is <t:1636273800:F>
+
 If you have any doubts, you can study [this timeanddate.com
 link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Magical+Mirai+Tokyo+Live+Stream&iso=20211107T1730&p1=248&ah=2&am=30)
 or use this
@@ -39,6 +41,7 @@ livestream (in years past it was an on site party). You can watch it for free on
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |04:00&nbsp;AM|07:00&nbsp;AM|11:00&nbsp;AM|12:00&nbsp;PM|08:00&nbsp;PM|
 
+The Discord timestamp is <t:1636196400:F>
 
 # Digital Stars
 
