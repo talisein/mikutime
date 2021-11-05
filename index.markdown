@@ -35,6 +35,7 @@ livestream (in years past it was an on site party). You can watch it for free on
 [Twitch](https://twitch.tv/tsunagaru_mirai) **Saturday, November 6th**.
 
 |PDT|EDT|GMT|CET|JST|
+|Los&nbsp;Angeles|New&nbsp;York|London|Paris|Tokyo|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |04:00&nbsp;AM|07:00&nbsp;AM|11:00&nbsp;AM|12:00&nbsp;PM|08:00&nbsp;PM|
 
