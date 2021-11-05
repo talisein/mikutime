@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Miku Timezone Resource
+title: Miku Timezone Resources
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Timezone-related resources for Hatsune Miku events, such as Magical Mirai and Digital Stars. Fan-made website, not
   affiliated with Crypton Future Media.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://39music.rocks" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mikutime.link" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: talisein
 github_username:  talisein
 
