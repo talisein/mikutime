@@ -62,3 +62,5 @@ on [Twitch](https://www.twitch.tv/cfm_official).
 |Los&nbsp;Angeles|New&nbsp;York|London|Paris|Tokyo|
 | :---: | :---: | :---: | :---: | :---: |
 |Saturday Nov&nbsp;20, 11&nbsp;PM|Sunday Nov&nbsp;21, 2&nbsp;AM|Sunday Nov&nbsp;21, 7&nbsp;AM|Sunday Nov&nbsp;21, 8&nbsp;AM|Sunday Nov&nbsp;21, 4&nbsp;PM|
+
+The Discord timestamp is <t:1637478000:F>
