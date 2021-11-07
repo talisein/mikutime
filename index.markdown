@@ -31,20 +31,6 @@ or use this
 If you miss the live stream, it will also be available for on demand viewing,
 roughly 24 hours afterwards.
 
-# Tsunagaru Mirai
-
-[Tsunagaru Mirai](http://tsunagarumirai.com/2021/en.html) is a fan-made DJ
-livestream (in years past it was an on site party). You can watch it for free on
-[Twitch](https://twitch.tv/tsunagaru_mirai) **Saturday, November 6th**.
-
-|PDT|EDT|GMT|CET|JST|
-|Los&nbsp;Angeles|New&nbsp;York|London|Paris|Tokyo|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|04:00&nbsp;AM|07:00&nbsp;AM|11:00&nbsp;AM|12:00&nbsp;PM|08:00&nbsp;PM|
-
-[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Tsunagaru%20Mirai&dates=20211106T110000Z/20211106T130000Z&ctz=Asia%2FTokyo).
-The Discord timestamp is <code><t:1636196400:F></code>
-
 # Digital Stars
 
 Digital Stars is a [vocal synth DJ music
