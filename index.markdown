@@ -23,26 +23,26 @@ is [Unsung Melodies](https://www.youtube.com/watch?v=ohbSbLRJFeE) by
 on [Twitch](https://www.twitch.tv/cfm_official).
 
 |PST|EST|GMT|CET|JST|
-|Los&nbsp;Angeles|New&nbsp;York|London|Paris|Tokyo|
 | :---: | :---: | :---: | :---: | :---: |
-|Saturday Nov&nbsp;20, 11&nbsp;PM|Sunday Nov&nbsp;21, 2&nbsp;AM|Sunday Nov&nbsp;21, 7&nbsp;AM|Sunday Nov&nbsp;21, 8&nbsp;AM|Sunday Nov&nbsp;21, 4&nbsp;PM|
+|09:00&nbsp;PM|12:00&nbsp;AM|05:00&nbsp;AM|06:00&nbsp;AM|02:00&nbsp;PM|
 
-[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20x%20GUMI%20Digital%20Stars&dates=20211121T070000Z/20211121T090000Z&ctz=Asia%2FTokyo).
-The Discord timestamp is <code><t:1637478000:F></code>
+[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20x%20GUMI%20Digital%20Stars&dates=20211121T050000Z/20211121T100000Z&ctz=Asia%2FTokyo).
+
+The Discord timestamp is <code><t:1637470800:F></code>
 
 ## Timetable
 
 |DJ|PST|EST|GMT|CET|JST|
 |---| :---: | :---: | :---: | :---: | :---: |
-|Opening Act|11:00&nbsp;PM|02:00&nbsp;AM|07:00&nbsp;AM|08:00&nbsp;AM|04:00&nbsp;PM|
-|Jamie Paige|11:50&nbsp;PM|02:50&nbsp;AM|07:50&nbsp;AM|08:50&nbsp;AM|04:50&nbsp;PM|
-|Mwk|12:20&nbsp;AM|03:20&nbsp;AM|08:20&nbsp;AM|09:20&nbsp;AM|05:20&nbsp;PM|
-|Dubscribe|12:50&nbsp;AM|03:50&nbsp;AM|08:50&nbsp;AM|09:50&nbsp;AM|05:50&nbsp;PM|
-|Amamori P|01:25&nbsp;AM|04:25&nbsp;AM|09:25&nbsp;AM|10:25&nbsp;AM|06:25&nbsp;PM|
-|Amenkensetsu|01:55&nbsp;AM|04:55&nbsp;AM|09:55&nbsp;AM|10:55&nbsp;AM|06:55&nbsp;PM|
-|DJ Shimamura|02:30&nbsp;AM|05:30&nbsp;AM|10:30&nbsp;AM|11:30&nbsp;AM|07:30&nbsp;PM|
-|Pedestrian|03:00&nbsp;AM|06:00&nbsp;AM|11:00&nbsp;AM|12:00&nbsp;PM|08:00&nbsp;PM|
-|monaca:factory|03:30&nbsp;AM|06:30&nbsp;AM|11:30&nbsp;AM|12:30&nbsp;PM|08:30&nbsp;PM|
+|Opening Act|09:00&nbsp;PM|12:00&nbsp;AM|05:00&nbsp;AM|06:00&nbsp;AM|02:00&nbsp;PM|
+|Jamie Paige|09:50&nbsp;PM|12:50&nbsp;AM|05:50&nbsp;AM|06:50&nbsp;AM|02:50&nbsp;PM|
+|Mwk|10:20&nbsp;PM|01:20&nbsp;AM|06:20&nbsp;AM|07:20&nbsp;AM|03:20&nbsp;PM|
+|Dubscribe|10:50&nbsp;PM|01:50&nbsp;AM|06:50&nbsp;AM|07:50&nbsp;AM|03:50&nbsp;PM|
+|Amamori P|11:25&nbsp;PM|02:25&nbsp;AM|07:25&nbsp;AM|08:25&nbsp;AM|04:25&nbsp;PM|
+|Amenkensetsu|11:55&nbsp;PM|02:55&nbsp;AM|07:55&nbsp;AM|08:55&nbsp;AM|04:55&nbsp;PM|
+|DJ Shimamura|12:30&nbsp;AM|03:30&nbsp;AM|08:30&nbsp;AM|09:30&nbsp;AM|05:30&nbsp;PM|
+|Pedestrian|01:00&nbsp;AM|04:00&nbsp;AM|09:00&nbsp;AM|10:00&nbsp;AM|06:00&nbsp;PM|
+|monaca:factory|01:30&nbsp;AM|04:30&nbsp;AM|09:30&nbsp;AM|10:30&nbsp;AM|06:30&nbsp;PM|
 
 ## Learn About The DJs
 
