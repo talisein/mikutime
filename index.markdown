@@ -24,7 +24,7 @@ on [Twitch](https://www.twitch.tv/cfm_official).
 
 |PST|EST|GMT|CET|JST|
 | :---: | :---: | :---: | :---: | :---: |
-|09:00&nbsp;PM|12:00&nbsp;AM|05:00&nbsp;AM|06:00&nbsp;AM|02:00&nbsp;PM|
+|Saturday 20&nbsp;Nov 9:00&nbsp;PM|Sunday 21&nbsp;Nov 12:00&nbsp;AM|Sunday 21&nbsp;Nov 5:00&nbsp;AM|Sunday 21&nbsp;Nov 6:00&nbsp;AM|Sunday 21&nbsp;Nov 2:00&nbsp;PM|
 
 [Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20x%20GUMI%20Digital%20Stars&dates=20211121T050000Z/20211121T100000Z&ctz=Asia%2FTokyo).
 
