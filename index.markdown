@@ -7,30 +7,6 @@ layout: home
 
 {% assign guidebook = site.static_files | where: "basename", "freepaper_en" | first %}
 
-# Magical Mirai Tokyo Stream
-
-Magical Mirai will be [available as a live
-stream](https://magicalmirai.com/2021/tokyo_overview_en.html#tokyo_ticket_onlinelive)
-**this Sunday, November 7th**. In North America, *Daylight Savings ends at 2 AM
-this same night* (we will fall an hour back) -- so you need to be very careful
-if you plan to watch it live!
-
-|PDT|MST|CST|EST|GMT|CET|JST|
-|Los&nbsp;Angeles|Denver|Chicago|New&nbsp;York|London|Paris|Tokyo|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1:30&nbsp;AM **BEFORE FALLING BACK**|1:30&nbsp;AM **AFTER FALLING BACK**|2:30&nbsp;AM|3:30&nbsp;AM|8:30&nbsp;AM|9:30&nbsp;AM|5:30&nbsp;PM|
-
-[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Magical%20Mirai%20Livestream&dates=20211107T083000Z/20211107T103000Z&ctz=Asia%2FTokyo).
-The Discord timestamp is <code><t:1636273800:F></code>
-
-If you have any doubts, you can study [this timeanddate.com
-link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Magical+Mirai+Tokyo+Live+Stream&iso=20211107T1730&p1=248&ah=2&am=30)
-or use this
-[countdown](https://www.timeanddate.com/countdown/payday?iso=20211107T1730&p0=248&msg=Magical+Mirai+Tokyo+Live+Stream&font=slab).
-
-If you miss the live stream, it will also be available for on demand viewing,
-roughly 24 hours afterwards.
-
 # Digital Stars
 
 Digital Stars is a [vocal synth DJ music
@@ -53,3 +29,15 @@ on [Twitch](https://www.twitch.tv/cfm_official).
 
 [Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20x%20GUMI%20Digital%20Stars&dates=20211121T070000Z/20211121T090000Z&ctz=Asia%2FTokyo).
 The Discord timestamp is <code><t:1637478000:F></code>
+
+|DJ|PST|EST|GMT|CET|JST|
+|---| :---: | :---: | :---: | :---: | :---: |
+|Opening Act|Saturday 23:00|Sunday 02:00|Sunday 07:00|Sunday 08:00|Sunday 16:00|
+|Jamie Paige|Saturday 23:50|02:50|07:50|08:50|16:50|
+|Mwk|Sunday 00:20|03:20|08:20|09:20|17:20|
+|Dubscribe|Sunday 00:50|03:50|08:50|09:50|17:50|
+|Amamori P|Sunday 01:25|04:25|09:25|10:25|18:25|
+|Amenkensetsu|Sunday 01:55|04:55|09:55|10:55|18:55|
+|DJ Shimamura|Sunday 02:30|05:30|10:30|11:30|19:30|
+|Pedestrian|Sunday 03:00|06:00|11:00|12:00|20:00|
+|monaca:factory|Sunday 03:30|06:30|11:30|12:30|20:30|
