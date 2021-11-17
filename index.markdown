@@ -23,6 +23,7 @@ is [Unsung Melodies](https://www.youtube.com/watch?v=ohbSbLRJFeE) by
 on [Twitch](https://www.twitch.tv/cfm_official).
 
 |PST|EST|GMT|CET|JST|
+|Los&nbsp;Angeles|New&nbsp;York|London|Paris|Tokyo|
 | :---: | :---: | :---: | :---: | :---: |
 |Saturday 20&nbsp;Nov 9:00&nbsp;PM|Sunday 21&nbsp;Nov 12:00&nbsp;AM|Sunday 21&nbsp;Nov 5:00&nbsp;AM|Sunday 21&nbsp;Nov 6:00&nbsp;AM|Sunday 21&nbsp;Nov 2:00&nbsp;PM|
 
@@ -47,6 +48,7 @@ The Discord timestamp is <code><t:1637470800:F></code>
 ## Learn About The DJs
 
 |DJ|Link|Example Music|
+|---|---|---|
 |Jamie Paige|[Twitter](https://twitter.com/polyromantic)|[Nothing (with You)](https://jamiepaige.bandcamp.com/track/nothing-with-you), [It's 2013 Again (feat. ODDDEEO)](https://jamiepaige.bandcamp.com/track/its-2013-again-feat-oddeeo)|
 |Mwk|[Twitter](https://twitter.com/Mwk_094)|[Days](https://www.youtube.com/watch?v=oVtTyLRSGmM), [Damnation](https://www.youtube.com/watch?v=gaUIJEjAVR4)|
 |Dubscribe😼|[Soundcloud](https://soundcloud.com/dubscribe_produkt)|[Space Cat](https://soundcloud.com/dubscribe_produkt/space-cat?si=075432080b3947b1b197cd06b32e545a), [Excision & Space Laces - 1 On 1](https://soundcloud.com/dubscribe_produkt/1on1remix1?si=cf76abfd4cde437bafb8a23fab1d4784)|
