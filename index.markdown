@@ -34,15 +34,15 @@ The Discord timestamp is <code><t:1637470800:F></code>
 
 |DJ|PST|EST|GMT|CET|JST|
 |---| :---: | :---: | :---: | :---: | :---: |
-|Opening Act|09:00&nbsp;PM|12:00&nbsp;AM|05:00&nbsp;AM|06:00&nbsp;AM|02:00&nbsp;PM|
-|Jamie Paige|09:50&nbsp;PM|12:50&nbsp;AM|05:50&nbsp;AM|06:50&nbsp;AM|02:50&nbsp;PM|
-|Mwk|10:20&nbsp;PM|01:20&nbsp;AM|06:20&nbsp;AM|07:20&nbsp;AM|03:20&nbsp;PM|
-|Dubscribe|10:50&nbsp;PM|01:50&nbsp;AM|06:50&nbsp;AM|07:50&nbsp;AM|03:50&nbsp;PM|
-|Amamori P|11:25&nbsp;PM|02:25&nbsp;AM|07:25&nbsp;AM|08:25&nbsp;AM|04:25&nbsp;PM|
-|Amenkensetsu|11:55&nbsp;PM|02:55&nbsp;AM|07:55&nbsp;AM|08:55&nbsp;AM|04:55&nbsp;PM|
-|DJ Shimamura|12:30&nbsp;AM|03:30&nbsp;AM|08:30&nbsp;AM|09:30&nbsp;AM|05:30&nbsp;PM|
-|Pedestrian|01:00&nbsp;AM|04:00&nbsp;AM|09:00&nbsp;AM|10:00&nbsp;AM|06:00&nbsp;PM|
-|monaca:factory|01:30&nbsp;AM|04:30&nbsp;AM|09:30&nbsp;AM|10:30&nbsp;AM|06:30&nbsp;PM|
+|Opening Act|9:00&nbsp;PM|12:00&nbsp;AM|5:00&nbsp;AM|6:00&nbsp;AM|2:00&nbsp;PM|
+|Jamie Paige|9:50&nbsp;PM|12:50&nbsp;AM|5:50&nbsp;AM|6:50&nbsp;AM|2:50&nbsp;PM|
+|Mwk|10:20&nbsp;PM|1:20&nbsp;AM|6:20&nbsp;AM|7:20&nbsp;AM|3:20&nbsp;PM|
+|Dubscribe|10:50&nbsp;PM|1:50&nbsp;AM|6:50&nbsp;AM|7:50&nbsp;AM|3:50&nbsp;PM|
+|Amamori P|11:25&nbsp;PM|2:25&nbsp;AM|7:25&nbsp;AM|8:25&nbsp;AM|4:25&nbsp;PM|
+|Amenkensetsu|11:55&nbsp;PM|2:55&nbsp;AM|7:55&nbsp;AM|8:55&nbsp;AM|4:55&nbsp;PM|
+|DJ Shimamura|12:30&nbsp;AM|3:30&nbsp;AM|8:30&nbsp;AM|9:30&nbsp;AM|5:30&nbsp;PM|
+|Pedestrian|1:00&nbsp;AM|4:00&nbsp;AM|9:00&nbsp;AM|10:00&nbsp;AM|6:00&nbsp;PM|
+|monaca:factory|1:30&nbsp;AM|4:30&nbsp;AM|9:30&nbsp;AM|10:30&nbsp;AM|6:30&nbsp;PM|
 
 ## Learn About The DJs
 
