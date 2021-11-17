@@ -38,7 +38,7 @@ The Discord timestamp is <code><t:1637470800:F></code>
 |Opening Act|9:00&nbsp;PM|12:00&nbsp;AM|5:00&nbsp;AM|6:00&nbsp;AM|2:00&nbsp;PM|
 |Jamie Paige|9:50&nbsp;PM|12:50&nbsp;AM|5:50&nbsp;AM|6:50&nbsp;AM|2:50&nbsp;PM|
 |Mwk|10:20&nbsp;PM|1:20&nbsp;AM|6:20&nbsp;AM|7:20&nbsp;AM|3:20&nbsp;PM|
-|Dubscribe|10:50&nbsp;PM|1:50&nbsp;AM|6:50&nbsp;AM|7:50&nbsp;AM|3:50&nbsp;PM|
+|Dubscribe😼|10:50&nbsp;PM|1:50&nbsp;AM|6:50&nbsp;AM|7:50&nbsp;AM|3:50&nbsp;PM|
 |Amamori P|11:25&nbsp;PM|2:25&nbsp;AM|7:25&nbsp;AM|8:25&nbsp;AM|4:25&nbsp;PM|
 |Amenkensetsu|11:55&nbsp;PM|2:55&nbsp;AM|7:55&nbsp;AM|8:55&nbsp;AM|4:55&nbsp;PM|
 |DJ Shimamura|12:30&nbsp;AM|3:30&nbsp;AM|8:30&nbsp;AM|9:30&nbsp;AM|5:30&nbsp;PM|
