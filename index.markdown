@@ -17,8 +17,9 @@ Media.
 
 The [next major Digital Stars
 event](https://digitalstars.club/dsmg21/index_en.html) will be **November
-21st**. This stream is a Miku x GUMI collaboration Digital Stars. The theme song
-is [Unsung Melodies](https://www.youtube.com/watch?v=ohbSbLRJFeE) by
+20th/21st** (check the timezones below). This stream is a Miku x GUMI
+collaboration Digital Stars. The theme song is [Unsung
+Melodies](https://www.youtube.com/watch?v=ohbSbLRJFeE) by
 [monaca:factory](https://monacafactory.com). You'll be able to watch the stream
 on [Twitch](https://www.twitch.tv/cfm_official).
 
