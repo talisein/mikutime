@@ -23,7 +23,7 @@ on [Twitch](https://www.twitch.tv/cfm_official).
 
 |PDT|EDT|BST|CEST|JST|
 | :---: | :---: | :---: | :---: | :---: |
-|Friday May&nbsp;27, 10:00&nbsp;PM|Saturday May&nbsp;28, 01:00&nbsp;AM|Saturday May&nbsp;28, 06:00&nbsp;AM|Saturday May&nbsp;28, 07:00&nbsp;AM|Saturday May&nbsp;28, 02:00&nbsp;PM|
+|Friday May&nbsp;27, 10:00&nbsp;PM|Saturday May&nbsp;28, 1:00&nbsp;AM|Saturday May&nbsp;28, 6:00&nbsp;AM|Saturday May&nbsp;28, 7:00&nbsp;AM|Saturday May&nbsp;28, 2:00&nbsp;PM|
 
 [Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Digital%20Stars%202022&dates=20220528T050000Z/20220528T110000Z&ctz=Asia%2FTokyo)
 
@@ -32,9 +32,6 @@ The Discord timestamp is <code><t:1653714000:F></code>
 ## Timetable
 
 Timetable is still unannounced.
-
-|DJ|PDT|EDT|BST|CEST|JST|
-|---| :---: | :---: | :---: | :---: | :---: |
 
 ## Learn About The DJs
 
