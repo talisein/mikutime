@@ -10,51 +10,47 @@ layout: home
 # Digital Stars
 
 Digital Stars is a [vocal synth DJ music
-stream](https://digitalstars.club/hmds21/index.html) run by Crypton Future
+stream](https://digitalstars.club/hmds22/index.html) run by Crypton Future
 Media.
 
-# Miku x GUMI Digital Stars
+# Digital Stars 2022
 
 The [next major Digital Stars
-event](https://digitalstars.club/dsmg21/index_en.html) will be **November
-20th/21st** (check the timezones below). This stream is a Miku x GUMI
-collaboration Digital Stars. The theme song is [Unsung
-Melodies](https://www.youtube.com/watch?v=ohbSbLRJFeE) by
-[monaca:factory](https://monacafactory.com). You'll be able to watch the stream
+event](https://digitalstars.club/dsmg21/index_en.html) will be **May 27th/28th**
+(check the timezones below). The theme song is [Hello Builder](https://youtu.be/I6saPR3I07M) by
+[Utsu-P](https://msis.jimdofree.com/). You'll be able to watch the stream
 on [Twitch](https://www.twitch.tv/cfm_official).
 
-|PST|EST|GMT|CET|JST|
-|Los&nbsp;Angeles|New&nbsp;York|London|Paris|Tokyo|
+|PDT|EDT|BST|CEST|JST|
 | :---: | :---: | :---: | :---: | :---: |
-|Saturday 20&nbsp;Nov 9:00&nbsp;PM|Sunday 21&nbsp;Nov 12:00&nbsp;AM|Sunday 21&nbsp;Nov 5:00&nbsp;AM|Sunday 21&nbsp;Nov 6:00&nbsp;AM|Sunday 21&nbsp;Nov 2:00&nbsp;PM|
+|Friday May&nbsp;27, 10:00&nbsp;PM|Saturday May&nbsp;28, 01:00&nbsp;AM|Saturday May&nbsp;28, 06:00&nbsp;AM|Saturday May&nbsp;28, 07:00&nbsp;AM|Saturday May&nbsp;28, 02:00&nbsp;PM|
 
-[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20x%20GUMI%20Digital%20Stars&dates=20211121T050000Z/20211121T100000Z&ctz=Asia%2FTokyo).
+[Google Calendar link](https://calendar.google.com/calendar/u/0/r/eventedit?text=Digital%20Stars%202022&dates=20220528T050000Z/20220528T110000Z&ctz=Asia%2FTokyo)
 
-The Discord timestamp is <code><t:1637470800:F></code>
+The Discord timestamp is <code><t:1653714000:F></code>
 
 ## Timetable
 
-|DJ|PST|EST|GMT|CET|JST|
+Timetable is still unannounced.
+
+|DJ|PDT|EDT|BST|CEST|JST|
 |---| :---: | :---: | :---: | :---: | :---: |
-|Opening Act|9:00&nbsp;PM|12:00&nbsp;AM|5:00&nbsp;AM|6:00&nbsp;AM|2:00&nbsp;PM|
-|Jamie Paige|9:50&nbsp;PM|12:50&nbsp;AM|5:50&nbsp;AM|6:50&nbsp;AM|2:50&nbsp;PM|
-|Mwk|10:20&nbsp;PM|1:20&nbsp;AM|6:20&nbsp;AM|7:20&nbsp;AM|3:20&nbsp;PM|
-|Dubscribe😼|10:50&nbsp;PM|1:50&nbsp;AM|6:50&nbsp;AM|7:50&nbsp;AM|3:50&nbsp;PM|
-|Amamori P|11:25&nbsp;PM|2:25&nbsp;AM|7:25&nbsp;AM|8:25&nbsp;AM|4:25&nbsp;PM|
-|Amenkensetsu|11:55&nbsp;PM|2:55&nbsp;AM|7:55&nbsp;AM|8:55&nbsp;AM|4:55&nbsp;PM|
-|DJ Shimamura|12:30&nbsp;AM|3:30&nbsp;AM|8:30&nbsp;AM|9:30&nbsp;AM|5:30&nbsp;PM|
-|Pedestrian|1:00&nbsp;AM|4:00&nbsp;AM|9:00&nbsp;AM|10:00&nbsp;AM|6:00&nbsp;PM|
-|monaca:factory|1:30&nbsp;AM|4:30&nbsp;AM|9:30&nbsp;AM|10:30&nbsp;AM|6:30&nbsp;PM|
 
 ## Learn About The DJs
 
 |DJ|Link|Example Music|
 |---|---|---|
-|Jamie Paige|[Twitter](https://twitter.com/polyromantic)|[Nothing (with You)](https://jamiepaige.bandcamp.com/track/nothing-with-you), [It's 2013 Again (feat. ODDDEEO)](https://jamiepaige.bandcamp.com/track/its-2013-again-feat-oddeeo)|
-|Mwk|[Twitter](https://twitter.com/Mwk_094)|[Days](https://www.youtube.com/watch?v=oVtTyLRSGmM), [Damnation](https://www.youtube.com/watch?v=gaUIJEjAVR4)|
-|Dubscribe😼|[Soundcloud](https://soundcloud.com/dubscribe_produkt)|[Space Cat](https://soundcloud.com/dubscribe_produkt/space-cat?si=075432080b3947b1b197cd06b32e545a), [1 On 1 remix](https://soundcloud.com/dubscribe_produkt/1on1remix1?si=cf76abfd4cde437bafb8a23fab1d4784)|
-|Amamori P|[Twitter](https://twitter.com/Amamori_P)|[スターライト](https://www.youtube.com/watch?v=DFy5V7ZWXS0), [Sorairo Melody](https://www.youtube.com/watch?v=woyoiboV2oM)|
-|Amenkensetsu|[Soundcloud](https://soundcloud.com/amenkensetsu)|[ネムの心臓](https://www.youtube.com/watch?v=YauUjB2kO4o), [Melt remix](https://www.youtube.com/watch?v=y_tS0JCjeLs)|
-|DJ Shimamura|[Website](http://www.djshimamura.com/)|[Virtual Heart](https://soundcloud.com/djshimamura/virtual-heart-produced-by-dj-shimamura?si=9e9705a9fc004c76bfdac978582e11c4), [Stargazer remix](https://soundcloud.com/djshimamura/p-light-feat-yukacco-stargazer?si=b42c9a2a310946de907d78bca756a205)|
-|Pedestrian|[Twitter](https://twitter.com/tri_angl_e)|[flare](https://www.youtube.com/watch?v=q6KeXbtxYTo), [night (t)rain](https://www.youtube.com/watch?v=8UZ9sm_SL8U)|
-|monaca:factory|[Website](https://monacafactory.com/)|[Unsung Melodies](https://www.youtube.com/watch?v=P82j5OIcUUU), [マーメイド](https://www.youtube.com/watch?v=3wM5Y7LoS7k)|
+|Utsu-P|[Twitter](https://twitter.com/asshole_wii)|[Ogre](https://www.youtube.com/watch?v=N9-M-avUjO8)|
+|colate|[Twitter](https://twitter.com/colate_dochibi)|[Wonder Style](https://youtu.be/3iMdlFaiO4s)|
+|gaburyu|[Twitter](https://twitter.com/gabustep)|[Yaca In Da House](https://www.youtube.com/watch?v=sAdXixuyqr4)|
+|nyankobrq|[Twitter](https://twitter.com/nyankobrq)|[Snorkel](https://soundcloud.com/nyankobrq/nyankobrq-snorkel?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)|
+|Yoshihisa Hirata|[Twitter](https://twitter.com/yoshihisahirata)|[Black Moon Rising](https://youtu.be/meLI9PmiGik)|
+|NUU$HI|[Twitter](https://twitter.com/IamNuushi)|[Light](https://soundcloud.com/iamnuushi/light-released-from-nextlight?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)|
+|hirihiri|[Twitter](https://twitter.com/hirihiri)|[Sumomo](https://youtu.be/y1HSXEa7BA8)|
+|Alpaca|[Twitter](https://twitter.com/Alpaca_1122)|[Change The World](https://soundcloud.com/alpaca1122/change-the-world-alpaca-feat?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)|
+|oddrella|[Twitter](https://twitter.com/oddrella)|[Zombee Remix](https://youtu.be/ZK9JeFpCJa8?t=413)|
+
+# Miku Expo Rewind
+
+[Miku Expo Rewind](https://mikuexpo.com/rewind2022/index_en.html) will be
+streamed for free on June 5th, 2022 -- exact time is yet unannounced.
