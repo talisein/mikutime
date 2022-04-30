@@ -22,6 +22,7 @@ event](https://digitalstars.club/hmds22/index.html) will be **May 27th/28th**
 on [Twitch](https://www.twitch.tv/cfm_official).
 
 |PDT|EDT|BST|CEST|JST|
+|Los Angeles|New York|London|Paris|Tokyo|
 | :---: | :---: | :---: | :---: | :---: |
 |Friday May&nbsp;27, 10:00&nbsp;PM|Saturday May&nbsp;28, 1:00&nbsp;AM|Saturday May&nbsp;28, 6:00&nbsp;AM|Saturday May&nbsp;28, 7:00&nbsp;AM|Saturday May&nbsp;28, 2:00&nbsp;PM|
 
