@@ -10,13 +10,13 @@ layout: home
 # Digital Stars
 
 Digital Stars is a [vocal synth DJ music
-stream](https://digitalstars.club/hmds22/index.html) run by Crypton Future
+stream](https://digitalstars.club/) run by Crypton Future
 Media.
 
 # Digital Stars 2022
 
 The [next major Digital Stars
-event](https://digitalstars.club/dsmg21/index_en.html) will be **May 27th/28th**
+event](https://digitalstars.club/hmds22/index.html) will be **May 27th/28th**
 (check the timezones below). The theme song is [Hello Builder](https://youtu.be/I6saPR3I07M) by
 [Utsu-P](https://msis.jimdofree.com/). You'll be able to watch the stream
 on [Twitch](https://www.twitch.tv/cfm_official).
