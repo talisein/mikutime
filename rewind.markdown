@@ -98,7 +98,7 @@ permalink: /rewind/
 |24|ODDS&ENDS|ODDS&ENDS|Miku|ryo|
 |25|月西江 (Yuè Xī Jiāng)|Moon West River|Miku|SolPie|
 |26|39 (サンキュ) (San Kyuu)|39 (Thank You)|Miku|sasakure.UK, DECO\*27|
-|27|01_ballade|星のかけら (Hoshi no Kakera)|Fragments of a Star|Miku|Eiji Hirasawa|
+|27|星のかけら (Hoshi no Kakera)|Fragments of a Star|Miku|Eiji Hirasawa|
 
 # Miku Expo 2016 China
 
@@ -162,7 +162,7 @@ permalink: /rewind/
 |23|紡唄 -つむぎうた- (Tsumugi Uta)|Spinning Song|Rin, Len|DATEKEN|
 |24|秘密警察 (Himitsu Keisatsu)|Secret Police|Miku|Buriru-P|
 |25|39 (San Kyuu)|Thank You|Miku|sasakure.UK, DECO\*27|
-|26|01_ballade|Hoshi no Kakera|Fragments of a Star|Miku|Eiji Hirasawa|
+|26|Hoshi no Kakera|Fragments of a Star|Miku|Eiji Hirasawa|
 
 
 # Miku Expo 2016 Japan Tour
@@ -194,7 +194,7 @@ permalink: /rewind/
 |23|Blue Star|Blue Star|Miku|Hachioji-P|
 |24|積乱雲グラフィティ (Sekiranun Graffiti)|Cumulonimbus Cloud Graffiti|Miku|ryo, Dixie Flatline|
 |25|39|39|Miku|sasakure.UK, DECO\*27|
-|26|01_ballade|星のカケラ (Hoshi no Kakera)|Fragments of a Star|Miku|Eiji Hirasawa|
+|26|星のカケラ (Hoshi no Kakera)|Fragments of a Star|Miku|Eiji Hirasawa|
 
 # Miku Expo 2016 North America
 
@@ -226,7 +226,7 @@ permalink: /rewind/
 |24|Sharing The World|Sharing The World|Miku|BIGHEAD, Maubox|
 |25|Miku (Anamanaguchi song)|Miku|Miku|Miku|Anamanaguchi|
 |26|39 (San Kyuu)|Thank You|Miku|sasakure.UK, DECO\*27|
-|27|01_ballade|Hoshi no Kakera|Fragments of a Star|Miku|Eiji Hirasawa|
+|27|Hoshi no Kakera|Fragments of a Star|Miku|Eiji Hirasawa|
 
 # Miku Expo 2017 Malaysia
 
