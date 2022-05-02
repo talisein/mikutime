@@ -4,6 +4,12 @@ title: Miku Expo Rewind
 permalink: /rewind/
 ---
 
+All of this data was sourced from
+[vocawiki](https://vocaloid.fandom.com/wiki/Vocaloid_Wiki), and subsequently
+cleaned up to be a little more uniform. Vocawiki is licensed
+[CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/). My apologies for
+any errors.
+
 # Miku Expo 2014 Indonesia
 
 |№ 	|Japanese, Romaji 	|English 	|Singer 	|Producer|
