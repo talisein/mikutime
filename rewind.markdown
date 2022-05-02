@@ -159,7 +159,7 @@ permalink: /rewind/
 |22|Tell Your World|Tell Your World|Miku|kz|
 |23|Blue Star|Blue Star|Miku|Hachioji-P|
 |24|Sharing The World|Sharing The World|Miku|BIGHEAD, Maubox|
-|25|Miku (Anamanaguchi song)|Miku|Miku|Miku|Anamanaguchi|
+|25|Miku (Anamanaguchi song)|Miku|Miku|Anamanaguchi|
 |26|39 (San Kyuu)|39 (Thank You)|Miku|sasakure.UK, DECO\*27|
 |27|星のかけら (Hoshi no Kakera)|Fragments of a Star|Miku|Eiji Hirasawa|
 
@@ -273,7 +273,7 @@ permalink: /rewind/
 |07|ドクター＝ファンクビート (Doctor=Funk Beat)|Doctor=Funk Beat|KAITO|nyanyannya|
 |08|忘却心中 (Boukyaku Shinjuu)|Lover's Suicide Oblivion|MEIKO|OPA|
 |09|glow|glow|Miku|keeno|
-|10|Through The Night (Slushii song)|Through The Night|Through The Night|Miku|Slushii|
+|10|Through The Night|Through The Night|Miku|Slushii|
 |11|ロミオとシンデレラ (Romeo to Cinderella)|Romeo and Cinderella|Miku|doriko|
 |12|エンヴィキャットウォーク (Envy Cat Walk)|Envy Cat Walk|Miku|Tohma|
 |13|Can't Make A Song!!|Can't Make a Song|Miku|Moi|
@@ -291,7 +291,7 @@ permalink: /rewind/
 |23|桜ノ雨 (Sakura no Ame)|Rain of Cherry Blossom Petals|Miku|halyosy, absorb|
 |24|Decade|Decade|Miku|Dixie Flatline|
 |25|砂の惑星 (Suna no Wakusei)|DUNE|Miku|Hachi|
-|26|Miku (Anamanaguchi song)|Miku|Miku|Miku|Anamanaguchi|
+|26|Miku (Anamanaguchi song)|Miku|Miku|Anamanaguchi|
 |26|Sharing The World (Spn ver.)|Sharing The World|Miku|BIGHEAD, Maubox|
 |27|Tell Your World|Tell Your World|Miku|kz|
 |28|メルト (Melt)|Melt|Miku|ryo|
@@ -324,7 +324,7 @@ permalink: /rewind/
 |16|星屑ユートピア (Hoshikuzu Utopia)|Stardust Utopia |Luka|otetsu|
 |17|Just Be Friends|Just Be Friends|Luka|Dixie Flatline|
 |17|ルカルカ★ナイトフィーバー (Luka Luka★Night Fever)|Luka Luka★Night Fever|Luka|samfree|
-|18|Birthday (ryuryu song)|Birthday|Birthday|Miku|ryuryu|
+|18|Birthday (ryuryu song)|Birthday|Miku|ryuryu|
 |19|気まぐれメルシィ (Kimagure Mercy)|Kimagure Mercy|Miku|Hachioji-P|
 |20|Satisfaction|Satisfaction|Miku|kz|
 |21|初音ミクの激唱 (Hatsune Miku no Gekishou)|The Intense Voice of Hatsune Miku|Miku|cosMo|
@@ -361,7 +361,7 @@ permalink: /rewind/
 |16|Hello, Worker|Hello, Worker|Luka|Hayashikei|
 |16|ダブルラリアット (Double Lariat)|Double Lariat|Luka|Hayashikei|
 |17|Never Die|Never Die|Luka|Yuyoyuppe|
-|18|Miku (Anamanaguchi song)|Miku|Miku|Miku|Anamanaguchi|
+|18|Miku (Anamanaguchi song)|Miku|Miku|Anamanaguchi|
 |19|Blue Star|Blue Star|Miku|Hachioji-P|
 |20|ワールドイズマイン (World is Mine)|World is Mine|Miku|ryo|
 |21|ODDS&ENDS|ODDS&ENDS|Miku|ryo|
@@ -388,7 +388,7 @@ permalink: /rewind/
 |07|あったかいと (Attakaito)|Warm Kaito|KAITO|halyosy|
 |08|ラムネイドブルーの憧憬 (Ramunade Blue no Shoukei)|Remade Blue Longing|MEIKO|Aotokei|
 |09|ハイパーリアリティショウ (Hyper Reality Show)|Hyper Reality Show|Miku|Utsu-P|
-|10|Miku (Anamanaguchi song)|Miku|Miku|Miku|Anamanaguchi|
+|10|Miku (Anamanaguchi song)|Miku|Miku|Anamanaguchi|
 |11|MikuFiesta|MikuFiesta|Miku|AlexTrip Sands|
 |12|No Logic|No Logic|Luka|JimmyThumb-P|
 |12|Never Die|Never Die|Luka|Yuyoyuppe|
