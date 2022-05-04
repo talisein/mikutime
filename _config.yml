@@ -23,12 +23,15 @@ title: Miku Timezone Resources
 description: >- # this means to ignore newlines until "baseurl:"
   Timezone-related resources for Hatsune Miku events, such as Magical Mirai and Digital Stars. Fan-made website, not
   affiliated with Crypton Future Media.
+
+show_excerpts: false
 baseurl: "" # the subpath of your site, e.g. /blog
+
 url: "https://mikutime.link" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: talisein
 github_username:  talisein
 mastodon:
-  username: talisein
+  - username: talisein
   instance: vocalounge.cafe
 
 # Build settings
