@@ -27,6 +27,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mikutime.link" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: talisein
 github_username:  talisein
+mastodon:
+  username: talisein
+  instance: vocalounge.cafe
 
 # Build settings
 theme: minima
