@@ -53,9 +53,10 @@ Timetable is still unannounced.
 [Miku Expo Rewind](https://mikuexpo.com/rewind2022/index_en.html) will be
 streamed for free on June 4th/5th, 2022.
 
-I am mirroring the official [Guidebook]({{ guidebook.path }}) here on Github
-since it got overwhelmed last year, but the official link is
-[here](https://mikuexpo.com/rewind2022/images/freepaper_en.pdf) if you prefer.
+Learn more by reading the official [Guidebook]({{ guidebook.path }}). That's a
+mirror here on Github since the official link got overwhelmed last year, but the
+official link is [here](https://mikuexpo.com/rewind2022/images/freepaper_en.pdf)
+if you prefer.
 
 # Miku Expo Timetable
 
