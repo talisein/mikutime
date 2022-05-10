@@ -4,6 +4,26 @@ title: Miku Expo Rewind
 permalink: /rewind/
 ---
 
+# Miku Expo Rewind Timetable
+
+|Event||PDT|EDT|BST|CEST|JST|
+|Google Calendar Link|Los Angeles|New York|London|Paris|Tokyo|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[Preshow 1](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Preshow%201&dates=20220605T013000Z/20220605T022500Z&ctz=Asia%2FTokyo)|Saturday Jun&nbsp;04, 06:30&nbsp;PM|Saturday Jun&nbsp;04, 09:30&nbsp;PM|Sunday Jun&nbsp;05, 02:30&nbsp;AM|Sunday Jun&nbsp;05, 03:30&nbsp;AM|Sunday Jun&nbsp;05, 10:30&nbsp;AM|
+|[DJ yanagamiyuki / coralmines](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20yanagamiyuki/coralmines&dates=20220605T022500Z/20220605T032500Z&ctz=Asia%2FTokyo)|Saturday Jun&nbsp;04, 07:25&nbsp;PM|Saturday Jun&nbsp;04, 10:25&nbsp;PM|Sunday Jun&nbsp;05, 03:25&nbsp;AM|Sunday Jun&nbsp;05, 04:25&nbsp;AM|Sunday Jun&nbsp;05, 11:25&nbsp;AM|
+|**[Concert 1](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%201&dates=20220605T033000Z/20220605T050000Z&ctz=Asia%2FTokyo)**|Saturday Jun&nbsp;04, 08:30&nbsp;PM|Saturday Jun&nbsp;04, 11:30&nbsp;PM|Sunday Jun&nbsp;05, 04:30&nbsp;AM|Sunday Jun&nbsp;05, 05:30&nbsp;AM|Sunday Jun&nbsp;05, 12:30&nbsp;PM|
+|[Digital Stars Radio](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistar%20Radio&dates=20220605T060000Z/20220605T070000Z&ctz=Asia%2FTokyo)|Saturday Jun&nbsp;04, 11:00&nbsp;PM|Sunday Jun&nbsp;05, 02:00&nbsp;AM|Sunday Jun&nbsp;05, 07:00&nbsp;AM|Sunday Jun&nbsp;05, 08:00&nbsp;AM|Sunday Jun&nbsp;05, 03:00&nbsp;PM|
+|[Preshow 2](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Preshow%202&dates=20220605T083000Z/20220605T092500Z&ctz=Asia%2FTokyo)|Sunday Jun&nbsp;05, 01:30&nbsp;AM|Sunday Jun&nbsp;05, 04:30&nbsp;AM|Sunday Jun&nbsp;05, 09:30&nbsp;AM|Sunday Jun&nbsp;05, 10:30&nbsp;AM|Sunday Jun&nbsp;05, 05:30&nbsp;PM|
+|[DJ FOXSKY / android52](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20FOXSKY/android52&dates=20220605T092500Z/20220605T102500Z&ctz=Asia%2FTokyo)|Sunday Jun&nbsp;05, 02:25&nbsp;AM|Sunday Jun&nbsp;05, 05:25&nbsp;AM|Sunday Jun&nbsp;05, 10:25&nbsp;AM|Sunday Jun&nbsp;05, 11:25&nbsp;AM|Sunday Jun&nbsp;05, 06:25&nbsp;PM|
+|**[Concert 2](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%202&dates=20220605T103000Z/20220605T120000Z&ctz=Asia%2FTokyo)**|Sunday Jun&nbsp;05, 03:30&nbsp;AM|Sunday Jun&nbsp;05, 06:30&nbsp;AM|Sunday Jun&nbsp;05, 11:30&nbsp;AM|Sunday Jun&nbsp;05, 12:30&nbsp;PM|Sunday Jun&nbsp;05, 07:30&nbsp;PM|
+|[Preshow 3](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Preshow%203&dates=20220605T123000Z/20220605T132500Z&ctz=Asia%2FTokyo)|Sunday Jun&nbsp;05, 05:30&nbsp;AM|Sunday Jun&nbsp;05, 08:30&nbsp;AM|Sunday Jun&nbsp;05, 01:30&nbsp;PM|Sunday Jun&nbsp;05, 02:30&nbsp;PM|Sunday Jun&nbsp;05, 09:30&nbsp;PM|
+|[DJ snarewaves / KIRA](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20snarewaves/KIRA&dates=20220605T132500Z/20220605T142500Z&ctz=Asia%2FTokyo)|Sunday Jun&nbsp;05, 06:25&nbsp;AM|Sunday Jun&nbsp;05, 09:25&nbsp;AM|Sunday Jun&nbsp;05, 02:25&nbsp;PM|Sunday Jun&nbsp;05, 03:25&nbsp;PM|Sunday Jun&nbsp;05, 10:25&nbsp;PM|
+|**[Concert 3](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%203&dates=20220605T143000Z/20220605T160000Z&ctz=Asia%2FTokyo)**|Sunday Jun&nbsp;05, 07:30&nbsp;AM|Sunday Jun&nbsp;05, 10:30&nbsp;AM|Sunday Jun&nbsp;05, 03:30&nbsp;PM|Sunday Jun&nbsp;05, 04:30&nbsp;PM|Sunday Jun&nbsp;05, 11:30&nbsp;PM|
+
+More information is on the front page of this website.
+
+# Previous Miku Expo setlists
+
 All of this data was sourced from
 [vocawiki](https://vocaloid.fandom.com/wiki/Vocaloid_Wiki), and subsequently
 cleaned up to be a little more uniform. Vocawiki is licensed

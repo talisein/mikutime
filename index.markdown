@@ -59,18 +59,30 @@ since it got overwhelmed last year, but the official link is
 
 # Miku Expo Timetable
 
-There are 3 separate concerts, but they are all likely to be the same. Catch the
+There are 3 separate concerts, but they are all likely to be the same. Simply
+choose the concert time that is most convienent for you to watch.
 
 |Event||PDT|EDT|BST|CEST|JST|
-|Google Calendar Link|Discord timestamp|Los Angeles|New York|London|Paris|Tokyo|
+|Google Calendar Link|Los Angeles|New York|London|Paris|Tokyo|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Preshow 1](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Preshow%201&dates=20220605T013000Z/20220605T022500Z&ctz=Asia%2FTokyo)|<code><t:1654392600:F></code>|Saturday Jun&nbsp;04, 06:30&nbsp;PM|Saturday Jun&nbsp;04, 09:30&nbsp;PM|Sunday Jun&nbsp;05, 02:30&nbsp;AM|Sunday Jun&nbsp;05, 03:30&nbsp;AM|Sunday Jun&nbsp;05, 10:30&nbsp;AM|
-|[DJ yanagamiyuki / coralmines](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20yanagamiyuki/coralmines&dates=20220605T022500Z/20220605T032500Z&ctz=Asia%2FTokyo)|TS|Saturday Jun&nbsp;04, 07:25&nbsp;PM|Saturday Jun&nbsp;04, 10:25&nbsp;PM|Sunday Jun&nbsp;05, 03:25&nbsp;AM|Sunday Jun&nbsp;05, 04:25&nbsp;AM|Sunday Jun&nbsp;05, 11:25&nbsp;AM|
-|[Concert 1 (JP)](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%201&dates=20220605T033000Z/20220605T050000Z&ctz=Asia%2FTokyo)|TS|Saturday Jun&nbsp;04, 08:30&nbsp;PM|Saturday Jun&nbsp;04, 11:30&nbsp;PM|Sunday Jun&nbsp;05, 04:30&nbsp;AM|Sunday Jun&nbsp;05, 05:30&nbsp;AM|Sunday Jun&nbsp;05, 12:30&nbsp;PM|
-|[Digital Stars Radio](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistar%20Radio&dates=20220605T060000Z/20220605T070000Z&ctz=Asia%2FTokyo)|TS|Saturday Jun&nbsp;04, 11:00&nbsp;PM|Sunday Jun&nbsp;05, 02:00&nbsp;AM|Sunday Jun&nbsp;05, 07:00&nbsp;AM|Sunday Jun&nbsp;05, 08:00&nbsp;AM|Sunday Jun&nbsp;05, 03:00&nbsp;PM|
-|[Preshow 2](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Preshow%202&dates=20220605T083000Z/20220605T092500Z&ctz=Asia%2FTokyo)|TS|Sunday Jun&nbsp;05, 01:30&nbsp;AM|Sunday Jun&nbsp;05, 04:30&nbsp;AM|Sunday Jun&nbsp;05, 09:30&nbsp;AM|Sunday Jun&nbsp;05, 10:30&nbsp;AM|Sunday Jun&nbsp;05, 05:30&nbsp;PM|
-|[DJ FOXSKY / android52](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20FOXSKY/android52&dates=20220605T092500Z/20220605T102500Z&ctz=Asia%2FTokyo)|TS|Sunday Jun&nbsp;05, 02:25&nbsp;AM|Sunday Jun&nbsp;05, 05:25&nbsp;AM|Sunday Jun&nbsp;05, 10:25&nbsp;AM|Sunday Jun&nbsp;05, 11:25&nbsp;AM|Sunday Jun&nbsp;05, 06:25&nbsp;PM|
-|[Concert 2 (NA)](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%202&dates=20220605T103000Z/20220605T120000Z&ctz=Asia%2FTokyo)|TS|Sunday Jun&nbsp;05, 03:30&nbsp;AM|Sunday Jun&nbsp;05, 06:30&nbsp;AM|Sunday Jun&nbsp;05, 11:30&nbsp;AM|Sunday Jun&nbsp;05, 12:30&nbsp;PM|Sunday Jun&nbsp;05, 07:30&nbsp;PM|
-|[Preshow 3](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Preshow%203&dates=20220605T123000Z/20220605T132500Z&ctz=Asia%2FTokyo)|TS|Sunday Jun&nbsp;05, 05:30&nbsp;AM|Sunday Jun&nbsp;05, 08:30&nbsp;AM|Sunday Jun&nbsp;05, 01:30&nbsp;PM|Sunday Jun&nbsp;05, 02:30&nbsp;PM|Sunday Jun&nbsp;05, 09:30&nbsp;PM|
-|[DJ snarewaves / KIRA](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20snarewaves/KIRA&dates=20220605T132500Z/20220605T142500Z&ctz=Asia%2FTokyo)|TS|Sunday Jun&nbsp;05, 06:25&nbsp;AM|Sunday Jun&nbsp;05, 09:25&nbsp;AM|Sunday Jun&nbsp;05, 02:25&nbsp;PM|Sunday Jun&nbsp;05, 03:25&nbsp;PM|Sunday Jun&nbsp;05, 10:25&nbsp;PM|
-|[Concert 3 (EU)](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%203&dates=20220605T143000Z/20220605T160000Z&ctz=Asia%2FTokyo)|TS|Sunday Jun&nbsp;05, 07:30&nbsp;AM|Sunday Jun&nbsp;05, 10:30&nbsp;AM|Sunday Jun&nbsp;05, 03:30&nbsp;PM|Sunday Jun&nbsp;05, 04:30&nbsp;PM|Sunday Jun&nbsp;05, 11:30&nbsp;PM|
+|[Preshow 1](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Preshow%201&dates=20220605T013000Z/20220605T022500Z&ctz=Asia%2FTokyo)|Saturday Jun&nbsp;04, 06:30&nbsp;PM|Saturday Jun&nbsp;04, 09:30&nbsp;PM|Sunday Jun&nbsp;05, 02:30&nbsp;AM|Sunday Jun&nbsp;05, 03:30&nbsp;AM|Sunday Jun&nbsp;05, 10:30&nbsp;AM|
+|[DJ yanagamiyuki / coralmines](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20yanagamiyuki/coralmines&dates=20220605T022500Z/20220605T032500Z&ctz=Asia%2FTokyo)|Saturday Jun&nbsp;04, 07:25&nbsp;PM|Saturday Jun&nbsp;04, 10:25&nbsp;PM|Sunday Jun&nbsp;05, 03:25&nbsp;AM|Sunday Jun&nbsp;05, 04:25&nbsp;AM|Sunday Jun&nbsp;05, 11:25&nbsp;AM|
+|**[Concert 1](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%201&dates=20220605T033000Z/20220605T050000Z&ctz=Asia%2FTokyo)**|Saturday Jun&nbsp;04, 08:30&nbsp;PM|Saturday Jun&nbsp;04, 11:30&nbsp;PM|Sunday Jun&nbsp;05, 04:30&nbsp;AM|Sunday Jun&nbsp;05, 05:30&nbsp;AM|Sunday Jun&nbsp;05, 12:30&nbsp;PM|
+|[Digital Stars Radio](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistar%20Radio&dates=20220605T060000Z/20220605T070000Z&ctz=Asia%2FTokyo)|Saturday Jun&nbsp;04, 11:00&nbsp;PM|Sunday Jun&nbsp;05, 02:00&nbsp;AM|Sunday Jun&nbsp;05, 07:00&nbsp;AM|Sunday Jun&nbsp;05, 08:00&nbsp;AM|Sunday Jun&nbsp;05, 03:00&nbsp;PM|
+|[Preshow 2](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Preshow%202&dates=20220605T083000Z/20220605T092500Z&ctz=Asia%2FTokyo)|Sunday Jun&nbsp;05, 01:30&nbsp;AM|Sunday Jun&nbsp;05, 04:30&nbsp;AM|Sunday Jun&nbsp;05, 09:30&nbsp;AM|Sunday Jun&nbsp;05, 10:30&nbsp;AM|Sunday Jun&nbsp;05, 05:30&nbsp;PM|
+|[DJ FOXSKY / android52](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20FOXSKY/android52&dates=20220605T092500Z/20220605T102500Z&ctz=Asia%2FTokyo)|Sunday Jun&nbsp;05, 02:25&nbsp;AM|Sunday Jun&nbsp;05, 05:25&nbsp;AM|Sunday Jun&nbsp;05, 10:25&nbsp;AM|Sunday Jun&nbsp;05, 11:25&nbsp;AM|Sunday Jun&nbsp;05, 06:25&nbsp;PM|
+|**[Concert 2](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%202&dates=20220605T103000Z/20220605T120000Z&ctz=Asia%2FTokyo)**|Sunday Jun&nbsp;05, 03:30&nbsp;AM|Sunday Jun&nbsp;05, 06:30&nbsp;AM|Sunday Jun&nbsp;05, 11:30&nbsp;AM|Sunday Jun&nbsp;05, 12:30&nbsp;PM|Sunday Jun&nbsp;05, 07:30&nbsp;PM|
+|[Preshow 3](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Preshow%203&dates=20220605T123000Z/20220605T132500Z&ctz=Asia%2FTokyo)|Sunday Jun&nbsp;05, 05:30&nbsp;AM|Sunday Jun&nbsp;05, 08:30&nbsp;AM|Sunday Jun&nbsp;05, 01:30&nbsp;PM|Sunday Jun&nbsp;05, 02:30&nbsp;PM|Sunday Jun&nbsp;05, 09:30&nbsp;PM|
+|[DJ snarewaves / KIRA](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20snarewaves/KIRA&dates=20220605T132500Z/20220605T142500Z&ctz=Asia%2FTokyo)|Sunday Jun&nbsp;05, 06:25&nbsp;AM|Sunday Jun&nbsp;05, 09:25&nbsp;AM|Sunday Jun&nbsp;05, 02:25&nbsp;PM|Sunday Jun&nbsp;05, 03:25&nbsp;PM|Sunday Jun&nbsp;05, 10:25&nbsp;PM|
+|**[Concert 3](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%203&dates=20220605T143000Z/20220605T160000Z&ctz=Asia%2FTokyo)**|Sunday Jun&nbsp;05, 07:30&nbsp;AM|Sunday Jun&nbsp;05, 10:30&nbsp;AM|Sunday Jun&nbsp;05, 03:30&nbsp;PM|Sunday Jun&nbsp;05, 04:30&nbsp;PM|Sunday Jun&nbsp;05, 11:30&nbsp;PM|
+
+# What to expect
+
+Miku Expo Online 2021 was presented in a similar format, so if you saw that
+expect the same. The "Preshow" consisted of static slides showcasing various
+merchandise and collaborations that Crypton is running. I would not be surprised
+if we had some collage of photos from previous Miku Expo events this time as
+well. The following DJ events are where producers air a setlist of their
+creation; do not expect a virtual character (i.e. Miku) to appear. The concert
+is when the virtual characters will perform; presumabily this will be a medley
+of recorded performances from previous Miku Expo tours.
