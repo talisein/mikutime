@@ -62,7 +62,7 @@ since it got overwhelmed last year, but the official link is
 There are 3 separate concerts, but they are all likely to be the same. Simply
 choose the concert time that is most convienent for you to watch.
 
-|Event||PDT|EDT|BST|CEST|JST|
+|Event|PDT|EDT|BST|CEST|JST|
 |Google Calendar Link|Los Angeles|New York|London|Paris|Tokyo|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Preshow 1](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Preshow%201&dates=20220605T013000Z/20220605T022500Z&ctz=Asia%2FTokyo)|Saturday Jun&nbsp;04, 06:30&nbsp;PM|Saturday Jun&nbsp;04, 09:30&nbsp;PM|Sunday Jun&nbsp;05, 02:30&nbsp;AM|Sunday Jun&nbsp;05, 03:30&nbsp;AM|Sunday Jun&nbsp;05, 10:30&nbsp;AM|
