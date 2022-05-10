@@ -58,7 +58,7 @@ mirror here on Github since the official link got overwhelmed last year, but the
 official link is [here](https://mikuexpo.com/rewind2022/images/freepaper_en.pdf)
 if you prefer.
 
-# Miku Expo Timetable
+# Miku Expo Timetable {#rewind}
 
 There are 3 separate concerts, but they are all likely to be the same. Simply
 choose the concert time that is most convienent for you to watch.
@@ -87,3 +87,20 @@ well. The following DJ events are where producers air a setlist of their
 creation; do not expect a virtual character (i.e. Miku) to appear. The concert
 is when the virtual characters will perform; presumabily this will be a medley
 of recorded performances from previous Miku Expo tours.
+
+# Testing area
+
+|Event|PDT|EDT|BST|CEST|JST|
+|Google Calendar Link|Los Angeles|New York|London|Paris|Tokyo|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[Digital Stars 2022](https://calendar.google.com/calendar/u/0/r/eventedit?text=Digital%20Stars%202022&dates=20220528T050000Z/20220528T110000Z&ctz=Asia%2FTokyo)|**Friday** 10:00&nbsp;PM|Saturday 01:00&nbsp;AM|Saturday 06:00&nbsp;AM|Saturday 07:00&nbsp;AM|Saturday 02:00&nbsp;PM|
+|[Miku Expo Preshow 1](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Preshow%201&dates=20220605T013000Z/20220605T022500Z&ctz=Asia%2FTokyo)|**Saturday** 06:30&nbsp;PM|**Saturday** 09:30&nbsp;PM|Sunday 02:30&nbsp;AM|Sunday 03:30&nbsp;AM|Sunday 10:30&nbsp;AM|
+|[Miku Expo Rewind Digistars yanagamiyuki / coralmines](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20yanagamiyuki%20/%20coralmines&dates=20220605T022500Z/20220605T032500Z&ctz=Asia%2FTokyo)|**Saturday** 07:25&nbsp;PM|**Saturday** 10:25&nbsp;PM|Sunday 03:25&nbsp;AM|Sunday 04:25&nbsp;AM|Sunday 11:25&nbsp;AM|
+|[Miku Expo Rewind Concert 1](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%201&dates=20220605T033000Z/20220605T050000Z&ctz=Asia%2FTokyo)|==**Saturday** 08:30&nbsp;PM==|==**Saturday** 11:30&nbsp;PM==|==Sunday 04:30&nbsp;AM==|==Sunday 05:30&nbsp;AM==|==Sunday 12:30&nbsp;PM==|
+|[Miku Expo Rewind Digistars Radio](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20Radio&dates=20220605T060000Z/20220605T070000Z&ctz=Asia%2FTokyo)|**Saturday** 11:00&nbsp;PM|Sunday 02:00&nbsp;AM|Sunday 07:00&nbsp;AM|Sunday 08:00&nbsp;AM|Sunday 03:00&nbsp;PM|
+|[Miku Expo Rewind Preshow 2](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Preshow%202&dates=20220605T083000Z/20220605T092500Z&ctz=Asia%2FTokyo)|Sunday 01:30&nbsp;AM|Sunday 04:30&nbsp;AM|Sunday 09:30&nbsp;AM|Sunday 10:30&nbsp;AM|Sunday 05:30&nbsp;PM|
+|[Miku Expo Rewind Digistars FOXSKY / android52](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20FOXSKY%20/%20android52&dates=20220605T092500Z/20220605T102500Z&ctz=Asia%2FTokyo)|Sunday 02:25&nbsp;AM|Sunday 05:25&nbsp;AM|Sunday 10:25&nbsp;AM|Sunday 11:25&nbsp;AM|Sunday 06:25&nbsp;PM|
+|[Miku Expo Rewind Concert 2](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%202&dates=20220605T103000Z/20220605T120000Z&ctz=Asia%2FTokyo)|==Sunday 03:30&nbsp;AM==|==Sunday 06:30&nbsp;AM==|==Sunday 11:30&nbsp;AM==|==Sunday 12:30&nbsp;PM==|==Sunday 07:30&nbsp;PM==|
+|[Miku Expo Rewind Preshow 3](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Preshow%203&dates=20220605T123000Z/20220605T132500Z&ctz=Asia%2FTokyo)|Sunday 05:30&nbsp;AM|Sunday 08:30&nbsp;AM|Sunday 01:30&nbsp;PM|Sunday 02:30&nbsp;PM|Sunday 09:30&nbsp;PM|
+|[Miku Expo Rewind Digistars snarewaves / KIRA](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20snarewaves%20/%20KIRA&dates=20220605T132500Z/20220605T142500Z&ctz=Asia%2FTokyo)|Sunday 06:25&nbsp;AM|Sunday 09:25&nbsp;AM|Sunday 02:25&nbsp;PM|Sunday 03:25&nbsp;PM|Sunday 10:25&nbsp;PM|
+|[Miku Expo Rewind Concert 3](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%203&dates=20220605T143000Z/20220605T160000Z&ctz=Asia%2FTokyo)|==Sunday 07:30&nbsp;AM==|==Sunday 10:30&nbsp;AM==|==Sunday 03:30&nbsp;PM==|==Sunday 04:30&nbsp;PM==|==Sunday 11:30&nbsp;PM==|
