@@ -89,3 +89,20 @@ choose the concert time that is most convienent for you to watch.
 |KIRA|[Twitter](https://twitter.com/kira_prod)|[Marionette](https://youtu.be/Ug4UuErlJ0A), [4BLOOD](https://youtu.be/5AbN7J2Ysyw)|
 
 Note: KIRA's set will be a replay of his Miku Expo Online 2021 set, according to the guidebook.
+
+# Discord Timestamps
+
+If you want to share the event times over Discord, they are provided here for your convienence.
+
+|Event|Timestamp|
+|:---:|:---:|
+|Preshow 1|<code><t:1654392600:F></code>|
+|DJ yanagamiyuki / coralmines|<code><t:1654395900:F></code>|
+|Concert 1|<code><t:1654399800:F></code>|
+|Digistars Radio|<code><t:1654408800:F></code>|
+|Preshow 2|<code><t:1654417800:F></code>|
+|DJ FOXSKY / android52|<code><t:1654421100:F></code>|
+|Concert 2|<code><t:1654425000:F></code>|
+|Preshow 3|<code><t:1654432200:F></code>|
+|DJ snarewaves / KIRA|<code><t:1654435500:F></code>|
+|Concert 3|<code><t:1654439400:F></code>|
