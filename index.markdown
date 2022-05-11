@@ -61,7 +61,7 @@ if you prefer.
 # Miku Expo Timetable {#rewind-time}
 
 There are 3 separate concerts, but they are all likely to be the same. Simply
-choose the concert time that is most convienent for you to watch.
+choose the concert time that is most convenient for you to watch.
 
 |Event|PDT|EDT|BST|CEST|JST|
 |Google Calendar Link|Los Angeles|New York|London|Paris|Tokyo|
@@ -92,7 +92,7 @@ Note: KIRA's set will be a replay of his Miku Expo Online 2021 set, according to
 
 # Discord Timestamps
 
-If you want to share the event times over Discord, they are provided here for your convienence.
+If you want to share the event times over Discord, they are provided here for your convenience.
 
 |Event|Timestamp|
 |:---:|:---:|
