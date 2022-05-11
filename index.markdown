@@ -39,7 +39,7 @@ Timetable is still unannounced.
 |DJ|Link|Example Music|
 |---|---|---|
 |Utsu-P|[Twitter](https://twitter.com/asshole_wii)|[Ogre](https://www.youtube.com/watch?v=N9-M-avUjO8)|
-|colate|[Twitter](https://twitter.com/colate_dochibi)|[Fijina Himitsu](https://twitter.com/colate_dochibi/status/1514215058238509057)|
+|colate|[Twitter](https://twitter.com/colate_dochibi)|[Fijina Himitsu](https://onprismrecords.bandcamp.com/track/--52)
 |gaburyu|[Twitter](https://twitter.com/gabustep)|[Yaca In Da House](https://www.youtube.com/watch?v=sAdXixuyqr4)|
 |nyankobrq|[Twitter](https://twitter.com/nyankobrq)|[Snorkel](https://soundcloud.com/nyankobrq/nyankobrq-snorkel?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)|
 |Yoshihisa Hirata|[Twitter](https://twitter.com/yoshihisahirata)|[Black Moon Rising](https://youtu.be/meLI9PmiGik)|
