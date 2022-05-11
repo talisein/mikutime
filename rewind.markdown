@@ -20,7 +20,7 @@ permalink: /rewind/
 |[DJ snarewaves / KIRA](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20snarewaves%20/%20KIRA&dates=20220605T132500Z/20220605T142500Z&ctz=Asia%2FTokyo)|Sunday 6:25&nbsp;AM|Sunday 9:25&nbsp;AM|Sunday 2:25&nbsp;PM|Sunday 3:25&nbsp;PM|Sunday 10:25&nbsp;PM|
 |**[Concert 3](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%203&dates=20220605T143000Z/20220605T160000Z&ctz=Asia%2FTokyo)**|**Sunday 7:30&nbsp;AM**|**Sunday 10:30&nbsp;AM**|**Sunday 3:30&nbsp;PM**|**Sunday 4:30&nbsp;PM**|**Sunday 11:30&nbsp;PM**|
 
-More information is on the front page of this website.
+More information is on the [front page](/#rewind) of this website.
 
 # Previous Miku Expo setlists {#setlists}
 
