@@ -6,6 +6,8 @@ permalink: /rewind/
 
 # Miku Expo Rewind Timetable {#timetable}
 
+Miku Expo Rewind is **June 4th/5th**. Check the timezones below.
+
 |Event|PDT|EDT|BST|CEST|JST|
 |Google Calendar Link|Los Angeles|New York|London|Paris|Tokyo|
 | :---: | :---: | :---: | :---: | :---: | :---: |
