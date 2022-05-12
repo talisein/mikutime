@@ -32,7 +32,20 @@ The Discord timestamp is <code><t:1653714000:F></code>
 
 ## Timetable
 
-Timetable is still unannounced.
+|DJ|PDT|EDT|BST|CEST|JST|
+|---| :---: | :---: | :---: | :---: | :---: |
+|OPEN|_Friday_ 9:00&nbsp;PM|Saturday 12:00&nbsp;AM|Saturday 5:00&nbsp;AM|Saturday 6:00&nbsp;AM|Saturday 1:00&nbsp;PM|
+|oddrella|_Friday_ 10:00&nbsp;PM|Saturday 1:00&nbsp;AM|Saturday 6:00&nbsp;AM|Saturday 7:00&nbsp;AM|Saturday 2:00&nbsp;PM|
+|nyankobrq|_Friday_ 10:40&nbsp;PM|Saturday 1:40&nbsp;AM|Saturday 6:40&nbsp;AM|Saturday 7:40&nbsp;AM|Saturday 2:40&nbsp;PM|
+|Alpaca|_Friday_ 11:20&nbsp;PM|Saturday 2:20&nbsp;AM|Saturday 7:20&nbsp;AM|Saturday 8:20&nbsp;AM|Saturday 3:20&nbsp;PM|
+|gaburyu|Saturday 12:00&nbsp;AM|Saturday 3:00&nbsp;AM|Saturday 8:00&nbsp;AM|Saturday 9:00&nbsp;AM|Saturday 4:00&nbsp;PM|
+|Yoshihisa Hirata|Saturday 12:40&nbsp;AM|Saturday 3:40&nbsp;AM|Saturday 8:40&nbsp;AM|Saturday 9:40&nbsp;AM|Saturday 4:40&nbsp;PM|
+|NUU$HI|Saturday 1:20&nbsp;AM|Saturday 4:20&nbsp;AM|Saturday 9:20&nbsp;AM|Saturday 10:20&nbsp;AM|Saturday 5:20&nbsp;PM|
+|Utsu-P|Saturday 2:00&nbsp;AM|Saturday 5:00&nbsp;AM|Saturday 10:00&nbsp;AM|Saturday 11:00&nbsp;AM|Saturday 6:00&nbsp;PM|
+|hirihiri|Saturday 2:40&nbsp;AM|Saturday 5:40&nbsp;AM|Saturday 10:40&nbsp;AM|Saturday 11:40&nbsp;AM|Saturday 6:40&nbsp;PM|
+|colate|Saturday 3:20&nbsp;AM|Saturday 6:20&nbsp;AM|Saturday 11:20&nbsp;AM|Saturday 12:20&nbsp;PM|Saturday 7:20&nbsp;PM|
+|CLOSE|Saturday 4:00&nbsp;AM|Saturday 7:00&nbsp;AM|Saturday 12:00&nbsp;PM|Saturday 1:00&nbsp;PM|Saturday 8:00&nbsp;PM|
+
 
 ## Learn About The DJs
 
