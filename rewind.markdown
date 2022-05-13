@@ -4,6 +4,11 @@ title: Miku Expo Rewind
 permalink: /rewind/
 ---
 
+[Miku Expo Rewind](https://mikuexpo.com/rewind2022/index_en.html) will be
+streamed for free on **June 4th/5th**, 2022.
+
+Learn more by reading the official [Guidebook]({{ guidebook.path }}).
+
 # Miku Expo Rewind Timetable {#timetable}
 
 Miku Expo Rewind is **June 4th/5th**. Check the timezones below.
@@ -22,7 +27,18 @@ Miku Expo Rewind is **June 4th/5th**. Check the timezones below.
 |[DJ snarewaves / KIRA](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Digistars%20snarewaves%20/%20KIRA&dates=20220605T132500Z/20220605T142500Z&ctz=Asia%2FTokyo)|Sunday 6:25&nbsp;AM|Sunday 9:25&nbsp;AM|Sunday 2:25&nbsp;PM|Sunday 3:25&nbsp;PM|Sunday 10:25&nbsp;PM|
 |**[Concert 3](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%203&dates=20220605T143000Z/20220605T160000Z&ctz=Asia%2FTokyo)**|**Sunday 7:30&nbsp;AM**|**Sunday 10:30&nbsp;AM**|**Sunday 3:30&nbsp;PM**|**Sunday 4:30&nbsp;PM**|**Sunday 11:30&nbsp;PM**|
 
-More information is on the [front page](/#rewind) of this website.
+# Learn About The DJs
+
+|DJ|Link|Example Music|
+|---|---|---|
+|yanagmiyuki|[Twitter](https://twitter.com/yanagamiyuki)|[Cyber Kawaii Kunai Girl](Cyber Kawaii Kunai Girl), [My Name Is Hatsune Miku](https://youtu.be/1hj3BDehQGc)|
+|coralmines|[Twitter](https://twitter.com/coral422)|[Alone Complex](https://soundcloud.com/coral422/alone-complex?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing), [Good Love](https://soundcloud.com/coral422/good-love?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)|
+|FOXSKY|[Twitter](https://twitter.com/MrFoxsky)|[Mirror Image](https://soundcloud.com/foxsky/mirror-image?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing), [Coachella 2018 Set](https://soundcloud.com/foxsky/coalchella?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)|
+|android52|[Twitter](https://twitter.com/_android52)|[Eternal Groove](https://open.spotify.com/track/43ENOabUecCUlWWq7PpOcF?si=a31502e21c01405c), [Skyline](https://open.spotify.com/track/4XpaG5fmUlTu4wXzPkor6z?si=9d62a44920534a4b)|
+|snarewaves|[Twitter](https://twitter.com/snarewaves)|[second wind](https://soundcloud.com/snarewaves/second-wind?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing), [BUMP!](https://soundcloud.com/snarewaves/bump?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)|
+|KIRA|[Twitter](https://twitter.com/kira_prod)|[Marionette](https://youtu.be/Ug4UuErlJ0A), [4BLOOD](https://youtu.be/5AbN7J2Ysyw)|
+
+Note: KIRA's set will be a replay of his Miku Expo Online 2021 set, according to the guidebook.
 
 # Previous Miku Expo setlists {#setlists}
 
