@@ -3,6 +3,7 @@ layout: page
 title: Miku Expo Rewind
 permalink: /rewind/
 ---
+{% assign guidebook = site.static_files | where: "basename", "freepaper_en" | first %}
 
 [Miku Expo Rewind](https://mikuexpo.com/rewind2022/index_en.html) will be
 streamed for free on **June 4th/5th**, 2022.
