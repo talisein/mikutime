@@ -32,7 +32,7 @@ Miku Expo Rewind is **June 4th/5th**. Check the timezones below.
 
 |DJ|Link|Example Music|
 |---|---|---|
-|yanagmiyuki|[Twitter](https://twitter.com/yanagamiyuki)|[Cyber Kawaii Kunai Girl](Cyber Kawaii Kunai Girl), [My Name Is Hatsune Miku](https://youtu.be/1hj3BDehQGc)|
+|yanagmiyuki|[Twitter](https://twitter.com/yanagamiyuki)|[Cyber Kawaii Kunai Girl](https://youtu.be/IyRc2zWFmj4), [My Name Is Hatsune Miku](https://youtu.be/1hj3BDehQGc)|
 |coralmines|[Twitter](https://twitter.com/coral422)|[Alone Complex](https://soundcloud.com/coral422/alone-complex?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing), [Good Love](https://soundcloud.com/coral422/good-love?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)|
 |FOXSKY|[Twitter](https://twitter.com/MrFoxsky)|[Mirror Image](https://soundcloud.com/foxsky/mirror-image?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing), [Coachella 2018 Set](https://soundcloud.com/foxsky/coalchella?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)|
 |android52|[Twitter](https://twitter.com/_android52)|[Eternal Groove](https://open.spotify.com/track/43ENOabUecCUlWWq7PpOcF?si=a31502e21c01405c), [Skyline](https://open.spotify.com/track/4XpaG5fmUlTu4wXzPkor6z?si=9d62a44920534a4b)|
