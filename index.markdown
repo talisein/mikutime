@@ -17,6 +17,8 @@ mirror here on Github since the official link got overwhelmed last year, but the
 official link is [here](https://mikuexpo.com/rewind2022/images/freepaper_en.pdf)
 if you prefer.
 
+#### Watch on [Twitch](https://www.twitch.tv/cfm_official) or [YouTube](https://youtu.be/ZTMnm1kzkJ8)
+
 # Miku Expo Timetable {#rewind-time}
 
 There are 3 separate concerts, but they are all likely to be the same. Simply
