@@ -17,7 +17,7 @@ mirror here on Github since the official link got overwhelmed last year, but the
 official link is [here](https://mikuexpo.com/rewind2022/images/freepaper_en.pdf)
 if you prefer.
 
-#### Watch on [Twitch](https://www.twitch.tv/cfm_official) or [YouTube](https://youtu.be/ZTMnm1kzkJ8)
+### Watch on [Twitch](https://www.twitch.tv/cfm_official) or [YouTube](https://youtu.be/ZTMnm1kzkJ8)
 
 # Miku Expo Timetable {#rewind-time}
 
