@@ -22,15 +22,14 @@ would get difficult to find when there's too many.
 |**[Concert 3](https://calendar.google.com/calendar/u/0/r/eventedit?text=Miku%20Expo%20Rewind%20Concert%203&dates=20220605T143000Z/20220605T160000Z&ctz=Asia%2FTokyo)**|**Sunday 05:30&nbsp;PM**|**Sunday 08:00&nbsp;PM**|**Sunday 10:30&nbsp;PM**|**_Monday_ 12:30&nbsp;AM**|**Sunday 10:30&nbsp;PM**|
 
 
-<code>
-`|Preshow 1|`<t:1654392600:F>`|`<t:1654392600:R>`|`
-`|DJ Show 1|`<t:1654395900:F>`|`<t:1654395900:R>`|`
-`|Concert 1|`<t:1654399800:F>`|`<t:1654399800:R>`|`
-`|DigiRadio|`<t:1654408800:F>`|`<t:1654408800:R>`|`
-`|Preshow 2|`<t:1654417800:F>`|`<t:1654417800:R>`|`
-`|DJ Show 2|`<t:1654421100:F>`|`<t:1654421100:R>`|`
-`|Concert 2|`<t:1654425000:F>`|`<t:1654425000:R>`|`
-`|Preshow 3|`<t:1654432200:F>`|`<t:1654432200:R>`|`
-`|DJ Show 3|`<t:1654435500:F>`|`<t:1654435500:R>`|`
-`|Concert 3|`<t:1654439400:F>`|`<t:1654439400:R>`|`
-</code>
+
+<code>`|Preshow 1|`<t:1654392600:F>`|`<t:1654392600:R>`|`</code>
+<code>`|DJ Show 1|`<t:1654395900:F>`|`<t:1654395900:R>`|`</code>
+<code>`|Concert 1|`<t:1654399800:F>`|`<t:1654399800:R>`|`</code>
+<code>`|DigiRadio|`<t:1654408800:F>`|`<t:1654408800:R>`|`</code>
+<code>`|Preshow 2|`<t:1654417800:F>`|`<t:1654417800:R>`|`</code>
+<code>`|DJ Show 2|`<t:1654421100:F>`|`<t:1654421100:R>`|`</code>
+<code>`|Concert 2|`<t:1654425000:F>`|`<t:1654425000:R>`|`</code>
+<code>`|Preshow 3|`<t:1654432200:F>`|`<t:1654432200:R>`|`</code>
+<code>`|DJ Show 3|`<t:1654435500:F>`|`<t:1654435500:R>`|`</code>
+<code>`|Concert 3|`<t:1654439400:F>`|`<t:1654439400:R>`|`</code>
