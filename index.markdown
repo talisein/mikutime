@@ -9,13 +9,17 @@ layout: home
 
 # Magical Mirai
 
-The next major Miku event is [Magical Mirai 10th Anniversary](https://magicalmirai.com/10th/index_en.html). As of yet, no online streams are confirmed.
+The next major Miku event is [Magical Mirai 10th Anniversary](https://magicalmirai.com/10th/index_en.html).
 
-Last year we got one from Tokyo; but this year Mirai will be performed at Osaka, Tokyo,
-and additionally Sapporo in February 2023. Therefore there is some potential that a digital
-stream would not be available until February. Stay tuned.
+An [online Live stream](https://magicalmirai.com/10th/tokyo_overview_en.html#overview_live_broadcast) from Tokyo will happen Sunday, September 4th.
 
-# Timetable
+# Stream time
+|Event|PDT|EDT|BST|CEST|JST|
+|Google Calendar Link|Los Angeles|New York|London|Paris|Tokyo|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**[Live Stream](https://calendar.google.com/calendar/u/0/r/eventedit?text=Magical%20Mirai%20Live%20Stream&dates=20220904T083000Z/20220904T103000Z&ctz=Asia%2FTokyo)**|**Sunday 01:30&nbsp;AM**|**Sunday 04:30&nbsp;AM**|**Sunday 09:30&nbsp;AM**|**Sunday 10:30&nbsp;AM**|**Sunday 05:30&nbsp;PM**|
+
+# Magical Mirai Timetable
 
 |Event|PDT|EDT|BST|CEST|JST|
 |Google Calendar Link|Los Angeles|New York|London|Paris|Tokyo|
@@ -47,9 +51,7 @@ stream would not be available until February. Stay tuned.
 |Tokyo Saturday Day|<t:1662177600:F>|
 |Tokyo Saturday Night|<t:1662193800:F>|
 |Tokyo Sunday Day|<t:1662264000:F>|
-|Tokyo Sunday Night|<t:1662280200:F>|
+|**Tokyo Sunday Night (Streamed)** |<t:1662280200:F>|
 |Sapporo Saturday Night|<t:1675494000:F>|
 |Sapporo Sunday Day|<t:1675567800:F>|
 |Sapporo Sunday Night|<t:1675580400:F>|
-
-
