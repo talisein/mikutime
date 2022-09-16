@@ -25,6 +25,8 @@ There's one more [Magical Mirai 10th
 Anniversary](https://magicalmirai.com/10th/index_en.html) concert in February
 2023 at Sapporo. See you there!
 
+I have a photo album of [Tokyo Mirai 10th here](https://adobe.ly/3r10xVz).
+
 # Magical Mirai Timetable
 
 |Event|PDT|EDT|BST|CEST|JST|
