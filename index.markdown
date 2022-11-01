@@ -10,14 +10,26 @@ layout: home
 # Miku Expo Rewind+
 
 The next major Miku event is [Miku Expo
-Rewind+](https://mikuexpo.com/rewind2022/index_en.html), November 6th
+Rewind+](https://mikuexpo.com/rewind2022/index_en.html), *November 6th*
 (JST). This will be similar to June's Rewind, but they are taking suggestions
 for the setlist so presumably we will get a different selection of songs.
 
+Watch the show on [Twitch](https://www.twitch.tv/cfm_official). You can also
+catch the concert on [YouTube](https://youtu.be/x47kevmLNnY) but the DJ events
+will not air there.
+
 # Rewind+ Timetable
 
-The timetable is yet unannounced (the offical website is still showing the
-timetable from June).
+|Event|PDT|EDT|GMT|CET|JST|
+|Google Calendar Link|Los Angeles|New York|London|Paris|Tokyo|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[1st Standby](https://calendar.google.com/calendar/u/0/r/eventedit?text=Show%201%20Standby&dates=20221106T000000Z/20221106T002500Z&ctz=Asia%2FTokyo)|_Saturday_ 05:00&nbsp;PM|_Saturday_ 08:00&nbsp;PM|Sunday 12:00&nbsp;AM|Sunday 01:00&nbsp;AM|Sunday 09:00&nbsp;AM|
+|[CircusP / beat_shobon](https://calendar.google.com/calendar/u/0/r/eventedit?text=CircusP%20/%20beat_shobon&dates=20221106T002500Z/20221106T012500Z&ctz=Asia%2FTokyo)|_Saturday_ 05:25&nbsp;PM|_Saturday_ 08:25&nbsp;PM|Sunday 12:25&nbsp;AM|Sunday 01:25&nbsp;AM|Sunday 09:25&nbsp;AM|
+|**[1st Concert](https://calendar.google.com/calendar/u/0/r/eventedit?text=1st%20Concert&dates=20221106T013000Z/20221106T030000Z&ctz=Asia%2FTokyo)**|**_Saturday_ 06:30&nbsp;PM**|**_Saturday_ 09:30&nbsp;PM**|**Sunday 01:30&nbsp;AM**|**Sunday 02:30&nbsp;AM**|**Sunday 10:30&nbsp;AM**|
+|[2nd Standby](https://calendar.google.com/calendar/u/0/r/eventedit?text=Show%202%20Standby&dates=20221106T070000Z/20221106T072500Z&ctz=Asia%2FTokyo)|Sunday 12:00&nbsp;AM|Sunday 02:00&nbsp;AM|Sunday 07:00&nbsp;AM|Sunday 08:00&nbsp;AM|Sunday 04:00&nbsp;PM|
+|[AlexTrip Sands / Riki](https://calendar.google.com/calendar/u/0/r/eventedit?text=AlexTrip%20Sands%20/%20Riki&dates=20221106T072500Z/20221106T082500Z&ctz=Asia%2FTokyo)|Sunday 12:25&nbsp;AM|Sunday 02:25&nbsp;AM|Sunday 07:25&nbsp;AM|Sunday 08:25&nbsp;AM|Sunday 04:25&nbsp;PM|
+|**[2nd Concert](https://calendar.google.com/calendar/u/0/r/eventedit?text=2nd%20Concert&dates=20221106T083000Z/20221106T100000Z&ctz=Asia%2FTokyo)**|**Sunday 01:30&nbsp;AM**|**Sunday 03:30&nbsp;AM**|**Sunday 08:30&nbsp;AM**|**Sunday 09:30&nbsp;AM**|**Sunday 05:30&nbsp;PM**|
+
 
 # Magical Mirai
 
