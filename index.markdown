@@ -5,7 +5,7 @@
 layout: home
 ---
 
-{% assign guidebook = site.static_files | where: "basename", "freepaper_en" | first %}
+{% assign guidebook = site.static_files | where: "basename", "freepaperplus_en_rewind+" | first %}
 
 # Miku Expo Rewind+
 
@@ -17,6 +17,8 @@ for the setlist so presumably we will get a different selection of songs.
 Watch the show on [Twitch](https://www.twitch.tv/cfm_official). You can also
 catch the concert on [YouTube](https://youtu.be/x47kevmLNnY) but the DJ events
 will not air there.
+
+The [Guidebook PDF is here]({{ guidebook.path }}).
 
 ## Rewind+ Timetable
 
