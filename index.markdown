@@ -16,7 +16,8 @@ layout: home
 |Event|PDT|EDT|BST|CEST|JST|
 |Google Calendar Link|Los Angeles|New York|London|Paris|Tokyo|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**[Friday](https://calendar.google.com/calendar/u/0/r/eventedit?text=Magical%20Mirai%20Osaka&dates=20230811T093000Z/20230811T113000Z&ctz=Asia%2FTokyo)**|**Friday 02:30&nbsp;AM**|**Friday 05:30&nbsp;AM**|**Friday 10:30&nbsp;AM**|**Friday 11:30&nbsp;AM**|**Friday 06:30&nbsp;PM**|
+|Friday afternoon|||||1:30 PM|
+|**[Friday Night](https://calendar.google.com/calendar/u/0/r/eventedit?text=Magical%20Mirai%20Osaka&dates=20230811T093000Z/20230811T113000Z&ctz=Asia%2FTokyo)**|**Friday 02:30&nbsp;AM**|**Friday 05:30&nbsp;AM**|**Friday 10:30&nbsp;AM**|**Friday 11:30&nbsp;AM**|**Friday 06:30&nbsp;PM**|
 |**[Saturday Noon](https://calendar.google.com/calendar/u/0/r/eventedit?text=Magical%20Mirai%20Osaka&dates=20230812T033000Z/20230812T053000Z&ctz=Asia%2FTokyo)**|**_Friday_ 08:30&nbsp;PM**|**_Friday_ 11:30&nbsp;PM**|**Saturday 04:30&nbsp;AM**|**Saturday 05:30&nbsp;AM**|**Saturday 12:30&nbsp;PM**|
 |**[Saturday Night](https://calendar.google.com/calendar/u/0/r/eventedit?text=Magical%20Mirai%20Osaka&dates=20230812T083000Z/20230812T103000Z&ctz=Asia%2FTokyo)**|**Saturday 01:30&nbsp;AM**|**Saturday 04:30&nbsp;AM**|**Saturday 09:30&nbsp;AM**|**Saturday 10:30&nbsp;AM**|**Saturday 05:30&nbsp;PM**|
 |**[Sunday Noon](https://calendar.google.com/calendar/u/0/r/eventedit?text=Magical%20Mirai%20Osaka&dates=20230813T033000Z/20230813T053000Z&ctz=Asia%2FTokyo)**|**_Saturday_ 08:30&nbsp;PM**|**_Saturday_ 11:30&nbsp;PM**|**Sunday 04:30&nbsp;AM**|**Sunday 05:30&nbsp;AM**|**Sunday 12:30&nbsp;PM**|
