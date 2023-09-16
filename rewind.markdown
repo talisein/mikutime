@@ -447,7 +447,7 @@ any errors.
 |04|Gimme×Gimme|Gimme×Gimme|Rin, Miku|Hachioji-P, Giga-P|
 |05|みかぼし (Mikaboshi)|Star of Heaven|KAITO|Satoru Takamura|
 |05|千年の独奏歌 (Sennen no Dokusou Ka)|Thousand Year Solo|KAITO|yanagi-P|
-|06|ANIMAL (Oq song)|ANIMAL|Len|oQ|
+|06|ANIMAL|ANIMAL|Len|oQ|
 |07|ぼかろころしあむ |Vocalo-Colosseum|Rin|DIVELA|
 |08|私の恋はヘルファイア (Watashi no Koi wa Hellfire)|My Love is Hellfire|MEIKO|SLAVE.V-V-R|
 |08|Change me|Change me|MEIKO|shu-t|
@@ -465,7 +465,7 @@ any errors.
 |13|完全性コンプレックス (Kanzensei Complex)|Perfectionist Complex|Luka|Yamikuro|
 |13|それがあなたの幸せとしても (Sore ga Anata no Shiawase to Shite mo)|Even if It's Your Happiness|Luka|Heavenz|
 |14|命に嫌われている。 (Inochi ni Kirawarete iru.)|Hated by Life Itself|Miku|Kanzaki Iori|
-|15|いいねってYEAH! (Ii Ne tte YEAH!)|Good is YEAH!|Rin, Len|WONDERFUL☆OPPORTUNITY|
+|15|いいねってYEAH! (Ii Ne tte YEAH!)|Good is YEAH!|Rin, Len|Wonderful☆Opportunity|
 |16|魔法みたいなミュージック！ (Mahou Mitaina Music!)|Music Like Magic!|Miku|OSTER Project|
 |16|Decade|Decade|Miku|Dixie Flatline|
 |17|好き！雪！本気マジック (Suki! Yuki! Maji Magic)|Love! Snow! Really Magic|Miku|Mitchie M|
