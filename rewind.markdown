@@ -435,3 +435,44 @@ any errors.
 |14|すきなことだけでいいです (Sukina Koto Dake de ii Desu)|All I Need Are Things I Like|Miku|Pinocchio-P|
 |15|ラッキー☆オーブ (Lucky☆Orb)|Lucky☆Orb|Miku|emon(Tes.)|
 |16|Highlight|Highlight|Miku|KIRA|
+
+# Thunderbolt
+
+|№ 	|Japanese, Romaji 	|English 	|Singer 	|Producer|
+| :---: | :---: | :---: | :---: | :---: |
+|01|THUNDERBOLT|THUNDERBOLT||Miku|jon-YAKITORY|
+|02|気まぐれメルシィ (Kimagure Mercy)|Whimsical Mercy|Miku|Hachioji-P|
+|02|Satisfaction|Satisfaction|Miku|livetune|
+|03|アンハッピーリフレイン|Unhappy Refrain|Miku|wowaka|
+|04|Gimme×Gimme|Gimme×Gimme|Rin, Miku|Hachioji-P, Giga-P|
+|05|みかぼし (Mikaboshi)|Star of Heaven|KAITO|Satoru Takamura|
+|05|千年の独奏歌 (Sennen no Dokusou Ka)|Thousand Year Solo|KAITO|yanagi-P|
+|06|ANIMAL (Oq song)|ANIMAL|Len|oQ|
+|07|ぼかろころしあむ |Vocalo-Colosseum|Rin|DIVELA|
+|08|私の恋はヘルファイア (Watashi no Koi wa Hellfire)|My Love is Hellfire|MEIKO|SLAVE.V-V-R|
+|08|Change me|Change me|MEIKO|shu-t|
+|09|独りんぼエンヴィー (Hitorinbo Envy)|Hide and Seek Envy|Miku|koyori|
+|09|ヒビカセ (Hibikase)|Resonate|Miku|Giga-P|
+|10|on the rocks|on the rocks|MEIKO, KAITO|OSTER Project|
+|10|ワールズエンド・ダンスホール |World's End Dancehall|Miku, Luka|wowaka|
+|11|秘密警察 (Himitsu Keisatsu)|Secret Police|Miku|Buriru|
+|12|シャボン (Shabon)|Soap|Miku|Kuriyama Yuri|
+|12|ハイパーリアリティショウ |Hyper Reality Show|Miku|Utsu-P|
+|12|ダブルラリアット |Double Lariat|Luka|Agoaniki-P|
+|12|ストリーミングハート |Streaming Heart|Miku|DECO\*27|
+|12|聖槍爆裂ボーイ (Seisou Bakuretsu Boy)|Holy Lance Explosion Boy|Len|Rerulili|
+|12|ルカルカ★ナイトフィーバー |Luka Luka★Night Fever|Luka|Samfree|
+|13|完全性コンプレックス (Kanzensei Complex)|Perfectionist Complex|Luka|Yamikuro|
+|13|それがあなたの幸せとしても (Sore ga Anata no Shiawase to Shite mo)|Even if It's Your Happiness|Luka|Heavenz|
+|14|命に嫌われている。 (Inochi ni Kirawarete iru.)|Hated by Life Itself|Miku|Kanzaki Iori|
+|15|いいねってYEAH! (Ii Ne tte YEAH!)|Good is YEAH!|Rin, Len|WONDERFUL☆OPPORTUNITY|
+|16|魔法みたいなミュージック！ (Mahou Mitaina Music!)|Music Like Magic!|Miku|OSTER Project|
+|16|Decade|Decade|Miku|Dixie Flatline|
+|17|好き！雪！本気マジック (Suki! Yuki! Maji Magic)|Love! Snow! Really Magic|Miku|Mitchie M|
+|17|アイ (Ai)|Love|Miku|DECO\*27|
+|18|ワールドイズマイン |World is Mine|Miku|ryo|
+|19|千本桜 (Senbonzakura)|Thousand Cherry Blossoms|Miku|Kurousa-P|
+|20|桜ノ雨 (Sakura no Ame)|Rain of Cherry Blossom Petals|Miku|halyosy, absorb|
+|21|ラッキー☆オーブ |Lucky☆Orb|Miku|emon(Tes.)|
+|22|Tell Your World|Tell Your World|Miku|livetune|
+|23|ノヴァ|Nova|Miku|\*Luna|
