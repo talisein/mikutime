@@ -440,7 +440,7 @@ any errors.
 
 |№ 	|Japanese, Romaji 	|English 	|Singer 	|Producer|
 | :---: | :---: | :---: | :---: | :---: |
-|01|THUNDERBOLT|THUNDERBOLT||Miku|jon-YAKITORY|
+|01|THUNDERBOLT|THUNDERBOLT|Miku|jon-YAKITORY|
 |02|気まぐれメルシィ (Kimagure Mercy)|Whimsical Mercy|Miku|Hachioji-P|
 |02|Satisfaction|Satisfaction|Miku|livetune|
 |03|アンハッピーリフレイン|Unhappy Refrain|Miku|wowaka|
