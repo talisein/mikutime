@@ -5,16 +5,20 @@
 layout: home
 ---
 
-{% assign guidebook = site.static_files | where: "basename", "vr2023_freepaper_jp" | first %}
+{% assign guidebook_jp = site.static_files | where: "basename", "vr2023_freepaper_jp" | first %}
+{% assign guidebook_en = site.static_files | where: "basename", "vr2023_freepaper_en" | first %}
 
 # Miku Expo VR
 
 [Miku Expo VR](https://mikuexpo.com/vr2023/)
 
-The [guidebook pdf is mirrored here]({{ guidebook.path }}) from [here](https://mikuexpo.com/vr2023/images/vr2023_freepaper_jp.pdf).
+The [English guidebook pdf is mirrored here]({{ guidebook_en.path }}) ([JP]({{ guidebook_jp.path }})) from [here](https://mikuexpo.com/vr2023/images/vr2023_freepaper_en.pdf) ([JP](https://mikuexpo.com/vr2023/images/vr2023_freepaper_jp.pdf)).
 
 ### [Watch on Twitch](https://www.twitch.tv/cfm_official)
 Or [YouTube](https://www.youtube.com/channel/UCJwGWV914kBlV4dKRn7AEFA)
+
+Digital Stars is ONLY on Twitch.
+Virtual Reality experience is ONLY on YouTube.
 
 ## Timetables
 
