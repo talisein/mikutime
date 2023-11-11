@@ -15,7 +15,7 @@ layout: home
 The [English guidebook pdf is mirrored here]({{ guidebook_en.path }}) ([JP]({{ guidebook_jp.path }})) from [here](https://mikuexpo.com/vr2023/images/vr2023_freepaper_en.pdf) ([JP](https://mikuexpo.com/vr2023/images/vr2023_freepaper_jp.pdf)).
 
 ### [Watch on Twitch](https://www.twitch.tv/cfm_official)
-Or [YouTube](https://www.youtube.com/channel/UCJwGWV914kBlV4dKRn7AEFA)
+Or [YouTube](https://www.youtube.com/watch?v=I_bEr_dgFh8)
 
 Digital Stars is ONLY on Twitch.
 Virtual Reality experience is ONLY on YouTube.
