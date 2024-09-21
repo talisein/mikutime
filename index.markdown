@@ -21,6 +21,10 @@ The live stream is available for purchase for 2500 yen. Go to the link above to 
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**[Mirai Live Stream](https://calendar.google.com/calendar/u/0/r/eventedit?text=Magical%20Mirai%20Osaka&dates=20241014T073000Z/20241014T093000Z&ctz=Asia%2FTokyo)**|**Monday 12:30&nbsp;AM**|**Monday 03:30&nbsp;AM**|**Monday 08:30&nbsp;AM**|**Monday 09:30&nbsp;AM**|**Monday 04:30&nbsp;PM**|
 
+
+|Live Stream Discord Timecode|<t:1728891000:F>|<t:1728891000:R>|
+
+
 # Miku Expo 2024 Europe
 
 [Miku Expo 2024 Europe](https://mikuexpo.com/europe2024/) takes place in October/November 2024. Go to the official webiste for your local venue links.
