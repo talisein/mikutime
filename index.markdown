@@ -19,7 +19,7 @@ The live stream is available for purchase for 2500 yen. Go to the link above to 
 |Event|PDT|EDT|BST|CEST|JST|
 |Google Calendar Link|Los Angeles|New York|London|Paris|Tokyo|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**[Mirai Live Stream](https://calendar.google.com/calendar/u/0/r/eventedit?text=Magical%20Mirai%20Osaka&dates=20241014T073000Z/20241014T093000Z&ctz=Asia%2FTokyo)**|**Monday&nbsp;Oct&nbsp;14th 12:30&nbsp;AM**|**Monday&nbsp;Oct&nbsp;14th 03:30&nbsp;AM**|**Monday&nbsp;Oct&nbsp;14th 08:30&nbsp;AM**|**Monday&nbsp;Oct&nbsp;14th 09:30&nbsp;AM**|**Monday&nbsp;Oct&nbsp;14th 04:30&nbsp;PM**|
+|**[Mirai Live Stream](https://calendar.google.com/calendar/u/0/r/eventedit?text=Magical%20Mirai%20Osaka&dates=20241014T073000Z/20241014T093000Z&ctz=Asia%2FTokyo)**|**Monday Oct&nbsp;14th 12:30&nbsp;AM**|**Monday Oct&nbsp;14th 03:30&nbsp;AM**|**Monday Oct&nbsp;14th 08:30&nbsp;AM**|**Monday Oct&nbsp;14th 09:30&nbsp;AM**|**Monday Oct&nbsp;14th 04:30&nbsp;PM**|
 
 
 |Live Stream Discord Timecode|<t:1728891000:F>|<t:1728891000:R>|
