@@ -476,3 +476,57 @@ any errors.
 |21|ラッキー☆オーブ |Lucky☆Orb|Miku|emon(Tes.)|
 |22|Tell Your World|Tell Your World|Miku|livetune|
 |23|ノヴァ|Nova|Miku|\*Luna|
+
+# Miku Expo 2023 VR
+
+|№ 	|Japanese, Romaji 	|English 	|Singer 	|Producer|
+| :---: | :---: | :---: | :---: | :---: |
+|01|🔪、🔪、🔪 (Knife, Knife, Knife)|Knife, Knife, Knife|Miku|Kikuo|
+|02|Acceleration (Breeze Remix)|Acceleration (Breeze Remix)|Miku|Clean Tears, T-ism|
+|03|フロイライン＝ビブリォチカ (Fräulein=Biblioteca)|Fräulein=Biblioteca|MEIKO|nyanyannya|
+|04|リテラシー (Literacy)|Literacy|KAITO|wotaku|
+|05|Midnight Surf|Midnight Surf|MEIKO, KAITO|asicamo|
+|06|1 + 1|1 + 1|Miku|doriko|
+|07|ワンダーラスト (Wanderlast)|Wanderlast|Luka|sasakure.UK|
+|08|vivid|vivid|Miku, Luka|Utsu-P, Yuyoyuppe|
+|09|Karma/CircusP|Karma|Rin|CircusP, Creep-P|
+|10|エゴロック (Ego Rock)|Ego Rock|Len|Surii|
+|11|しんでしまうとはなさけない！ (Shinde Shimau to wa Nasakenai!)|Death Should Not Have Taken Thee!|Rin, Len|Jesus-P|
+|12|Plaything|Plaything|Miku|Mizu|
+|13|Tell Your World|Tell Your World|Miku|kz|
+|14|imaginary love story|imaginary love story|Miku|Synthion|
+
+# Miku Expo 2024 North America
+
+|№ 	|Japanese, Romaji 	|English 	|Singer 	|Producer|
+| :---: | :---: | :---: | :---: | :---: |
+|01|Miku (Anamanaguchi song)|Miku|Miku|Anamanaguchi|
+|02|ヴァンパイア (Vampire)|Vampire|Miku|DECO*27|
+|03|アンノウン・マザーグース (Unknown Mother-Goose)|Unknown Mother-Goose|Miku|wowaka|
+|04|天才ロック (Tensai Rock)|Genius Rock|Rin|Karasuyasabou|
+|05|GEDO|GEDO|Len|daraku|
+|06|おこちゃま戦争 (Okochama Sensou)|Kiddie War|Rin, Len|Giga|
+|07|リテラシー (Literacy)|Literacy|KAITO|wotaku|
+|08|フロイライン＝ビブリォチカ (Fräulein=Biblioteca)|Fräulein=Biblioteca|MEIKO|nyanyannya|
+|09|on the rocks|on the rocks|MEIKO, KAITO|OSTER project|
+|10|M@GICAL☆CURE! LOVE ♥ SHOT!|M@GICAL☆CURE! LOVE ♥ SHOT!|Miku|SAWTOWNE, Sena Kiryuin|
+|11|Blue Star|Blue Star|Miku|Hachioji-P|
+|11|Decade|Decade|Miku|Dixie Flatline|
+|11|Sharing The World|Sharing The World|Miku|BIGHEAD|
+|11|Sharing The World (Spanish ver.)|Sharing The World (Spanish ver.)|Miku|BIGHEAD, Maubox|
+|12|Can't Make A Song!!|Can't Make A Song!!|Miku|beat_shobon|
+|12|MikuFiesta|MikuFiesta|Miku|AlexTrip Sands|
+|12|Ten Thousand Stars|Ten Thousand Stars|Miku|CircusP|
+|13|Plaything|Plaything|Miku|Mizu|
+|13|Thousand Little Voices|Thousand Little Voices|Miku|Flanger Moose and Vault Kid|
+|13|魔法みたいなミュージック！ (Mahou Mitaina Music!)|Music Like Magic!|Miku|OSTER project|
+|14|それがあなたの幸せとしても (Sore ga Anata no Shiawase to Shite mo)|Even If It's Your Happiness|Luka|Heavenz|
+|15|Vivid|Vivid|Miku, Luka|Utsu-P, Yuyoyuppe|
+|16|Gimme×Gimme|Gimme×Gimme|Miku, Rin|Hachioji-P, Giga|
+|17|ハイパーリアリティショウ (Hyper Reality Show)|Hyper Reality Show|Miku|Utsu-P|
+|18|ワールドイズマイン (World is Mine)|World is Mine|Miku|ryo|
+|19|ラッキー☆オーブ (Lucky☆Orb)|Lucky☆Orb|Miku|emon(Tes.)|
+|20|Tell Your World|Tell Your World|Miku|kz|
+|21|Intergalactic Bound|Intergalactic Bound|Miku|Yunosuke, CircusP|
+|22|imaginary love story|imaginary love story|Miku|Synthion|
+|23|Highlight|Highlight|Miku|KIRA|
