@@ -530,3 +530,69 @@ any errors.
 |21|Intergalactic Bound|Intergalactic Bound|Miku|Yunosuke, CircusP|
 |22|imaginary love story|imaginary love story|Miku|Synthion|
 |23|Highlight|Highlight|Miku|KIRA|
+
+# Miku Expo 2024 Europe
+
+|№ 	|Japanese, Romaji 	|English 	|Singer 	|Producer|
+| :---: | :---: | :---: | :---: | :---: |
+|01|Miku (Anamanaguchi song)|Miku|Miku|Anamanaguchi|
+|02|ヴァンパイア (Vampire)|Vampire|Miku|DECO*27|
+|03|ラッキー☆オーブ (Lucky☆Orb)|Lucky☆Orb|Miku|emon(Tes.)|
+|04|新人類 (Shinjinrui)|New Human Race|Rin|marasy, Jin, kemu|
+|05|テレキャスタービーボーイ (Telecaster B Boy)|Telecaster B Boy|Len|Surii|
+|06|おこちゃま戦争 (Okochama Senso)|Kiddie War|Rin, Len|Giga|
+|07|リテラシー (Literacy)|Literacy|KAITO|wotaku|
+|08|レッドランドマーカー (Red Land Marker)|Red Land Marker|MEIKO|Twinfield|
+|09|Midnight Surf|Midnight Surf|MEIKO, KAITO|asicamo|
+|10|Blue Star|Blue Star|Miku|Hachioji-P|
+|10|Decade|Decade|Miku|Dixie Flatline|
+|11|Ten Thousand Stars|Ten Thousand Stars|Miku|CircusP|
+|11|Can't Make A Song!!|Can't Make A Song!!|Miku|beat_shobon|
+|11|MikuFiesta|MikuFiesta|Miku|AlexTrip Sands|
+|12|Plaything|Plaything|Miku|Mizu|
+|12|Thousand Little Voices|Thousand Little Voices|Miku|Flanger Moose and Vault Kid|
+|12|魔法みたいなミュージック！ (Mahou Mitaina Music!)|Music Like Magic!|Miku|OSTER project|
+|13|lost and found|lost and found|Luka|ashcolor|
+|14|Vivid|Vivid|Miku, Luka|Utsu-P, Yuyoyuppe|
+|15|ハイパーリアリティショウ (Hyper Reality Show)|Hyper Reality Show|Miku|Utsu-P|
+|16|Gimme×Gimme|Gimme×Gimme|Miku, Rin|Hachioji-P, Giga|
+|17|アンノウン・マザーグース (Unknown Mother-Goose)|Unknown Mother-Goose|Miku|wowaka|
+|18|M@GICAL☆CURE! LOVE ♥ SHOT!|M@GICAL☆CURE! LOVE ♥ SHOT!|Miku|SAWTOWNE, Sena Kiryuin|
+|19|Tell Your World|Tell Your World|Miku|kz|
+|20|メルト (Melt)|Melt|Miku|ryo|
+|21|Intergalactic Bound|Intergalactic Bound|Miku|Yunosuke, CircusP|
+|22|imaginary love story|imaginary love story|Miku|Synthion|
+|23|Highlight|Highlight|Miku|KIRA|
+
+# Miku Expo 2024 New Zealand & Australia
+
+|№ 	|Japanese, Romaji 	|English 	|Singer 	|Producer|
+| :---: | :---: | :---: | :---: | :---: |
+|01|Miku (Anamanaguchi song)|Miku|Miku|Anamanaguchi|
+|02|ヴァンパイア (Vampire)|Vampire|Miku|DECO*27|
+|03|ラッキー☆オーブ (Lucky☆Orb)|Lucky☆Orb|Miku|emon(Tes.)|
+|04|[[ココロ (Kokoro)]]|Heart|Rin|Toraboruta-P|
+|05|Fire◎Flower|Fire◎Flower|Len|halyosy|
+|06|[[おこちゃま戦争 (Okochama Senso)]]|Kiddie War|Rin, Len|Giga|
+|07|リテラシー (Literacy)|Literacy|KAITO|wotaku|
+|08|レッドランドマーカー (Red Land Marker)|Red Land Marker|MEIKO|Twinfield|
+|09|Midnight Surf|Midnight Surf|MEIKO, KAITO|asicamo|
+|10|Blue Star|Blue Star|Miku|Hachioji-P|
+|10|Decade|Decade|Miku|Dixie Flatline|
+|11|Ten Thousand Stars|Ten Thousand Stars|Miku|CircusP|
+|11|Can't Make A Song!!|Can't Make A Song!!|Miku|beat_shobon|
+|11|MikuFiesta|MikuFiesta|Miku|AlexTrip Sands|
+|12|Plaything|Plaything|Miku|Mizu|
+|12|Thousand Little Voices|Thousand Little Voices|Miku|Flanger Moose and Vault Kid|
+|12|魔法みたいなミュージック！ (Mahou Mitaina Music!)|Music Like Magic!|Miku|OSTER project|
+|13|ルカルカ★ナイトフィーバー (Luka Luka★Night Fever)|Luka Luka★Night Fever|Luka|samfree|
+|14|Vivid|Vivid|Miku, Luka|Utsu-P, Yuyoyuppe|
+|15|[[深海少女 (Shinkai Shoujo)]]|Deep-Sea Girl|Miku|Yuuyu-P|
+|16|Gimme×Gimme|Gimme×Gimme|Miku, Rin|Hachioji-P, Giga|
+|17|アンノウン・マザーグース (Unknown Mother-Goose)|Unknown Mother-Goose|Miku|wowaka|
+|18|M@GICAL☆CURE! LOVE ♥ SHOT!|M@GICAL☆CURE! LOVE ♥ SHOT!|Miku|SAWTOWNE, Sena Kiryuin|
+|19|Tell Your World|Tell Your World|Miku|kz|
+|20|ワールドイズマイン (World is Mine)|ワールドイズマイン (World is Mine)|Miku|ryo|
+|21|Intergalactic Bound|Intergalactic Bound|Miku|Yunosuke, CircusP|
+|22|imaginary love story|imaginary love story|Miku|Synthion|
+|23|Highlight|Highlight|Miku|KIRA|
