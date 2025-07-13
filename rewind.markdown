@@ -501,7 +501,7 @@ any errors.
 |№ 	|Japanese, Romaji 	|English 	|Singer 	|Producer|
 | :---: | :---: | :---: | :---: | :---: |
 |01|Miku (Anamanaguchi song)|Miku|Miku|Anamanaguchi|
-|02|ヴァンパイア (Vampire)|Vampire|Miku|DECO*27|
+|02|ヴァンパイア (Vampire)|Vampire|Miku|DECO\*27|
 |03|アンノウン・マザーグース (Unknown Mother-Goose)|Unknown Mother-Goose|Miku|wowaka|
 |04|天才ロック (Tensai Rock)|Genius Rock|Rin|Karasuyasabou|
 |05|GEDO|GEDO|Len|daraku|
@@ -536,7 +536,7 @@ any errors.
 |№ 	|Japanese, Romaji 	|English 	|Singer 	|Producer|
 | :---: | :---: | :---: | :---: | :---: |
 |01|Miku (Anamanaguchi song)|Miku|Miku|Anamanaguchi|
-|02|ヴァンパイア (Vampire)|Vampire|Miku|DECO*27|
+|02|ヴァンパイア (Vampire)|Vampire|Miku|DECO\*27|
 |03|ラッキー☆オーブ (Lucky☆Orb)|Lucky☆Orb|Miku|emon(Tes.)|
 |04|新人類 (Shinjinrui)|New Human Race|Rin|marasy, Jin, kemu|
 |05|テレキャスタービーボーイ (Telecaster B Boy)|Telecaster B Boy|Len|Surii|
@@ -569,11 +569,11 @@ any errors.
 |№ 	|Japanese, Romaji 	|English 	|Singer 	|Producer|
 | :---: | :---: | :---: | :---: | :---: |
 |01|Miku (Anamanaguchi song)|Miku|Miku|Anamanaguchi|
-|02|ヴァンパイア (Vampire)|Vampire|Miku|DECO*27|
+|02|ヴァンパイア (Vampire)|Vampire|Miku|DECO\*27|
 |03|ラッキー☆オーブ (Lucky☆Orb)|Lucky☆Orb|Miku|emon(Tes.)|
-|04|[[ココロ (Kokoro)]]|Heart|Rin|Toraboruta-P|
+|04|ココロ (Kokoro)|Heart|Rin|Toraboruta-P|
 |05|Fire◎Flower|Fire◎Flower|Len|halyosy|
-|06|[[おこちゃま戦争 (Okochama Senso)]]|Kiddie War|Rin, Len|Giga|
+|06|おこちゃま戦争 (Okochama Senso)|Kiddie War|Rin, Len|Giga|
 |07|リテラシー (Literacy)|Literacy|KAITO|wotaku|
 |08|レッドランドマーカー (Red Land Marker)|Red Land Marker|MEIKO|Twinfield|
 |09|Midnight Surf|Midnight Surf|MEIKO, KAITO|asicamo|
@@ -587,7 +587,7 @@ any errors.
 |12|魔法みたいなミュージック！ (Mahou Mitaina Music!)|Music Like Magic!|Miku|OSTER project|
 |13|ルカルカ★ナイトフィーバー (Luka Luka★Night Fever)|Luka Luka★Night Fever|Luka|samfree|
 |14|Vivid|Vivid|Miku, Luka|Utsu-P, Yuyoyuppe|
-|15|[[深海少女 (Shinkai Shoujo)]]|Deep-Sea Girl|Miku|Yuuyu-P|
+|15|深海少女 (Shinkai Shoujo)|Deep-Sea Girl|Miku|Yuuyu-P|
 |16|Gimme×Gimme|Gimme×Gimme|Miku, Rin|Hachioji-P, Giga|
 |17|アンノウン・マザーグース (Unknown Mother-Goose)|Unknown Mother-Goose|Miku|wowaka|
 |18|M@GICAL☆CURE! LOVE ♥ SHOT!|M@GICAL☆CURE! LOVE ♥ SHOT!|Miku|SAWTOWNE, Sena Kiryuin|
@@ -603,22 +603,36 @@ any errors.
 | :---: | :---: | :---: | :---: | :---: |
 |01|プシ (Psi)|Psi|Miku|r-906|
 |02|エイリアンエイリアン (Alien Alien)|Alien Alien|Miku|NayutalieN|
+|02|ダーリンダンス (Darling Dance)|Darling Dance|Miku|Kairiki Bear|
 |03|二次元ドリームフィーバー (Nijigen Dream Fever)|2D Dream Fever|Miku|PolyphonicBranch|
+|03|キャットフード (Cat Food)|Cat Food|Miku|doriko|
 |04|キレキャリオン (Kire Carry On)|Kill Carry On|Miku|Police Piccadilly|
 |05|Fire◎Flower|Fire◎Flower|Len|haylosy|
 |06|Caged Flower|Caged Flower|KAITO|Re:nG|
 |07|夜舞うシルエット (Yomau Silhouette)|Silhouette Dancing in the Night|MEIKO|Miyamori Bungaku|
 |08|カルチャ (Culture)|Culture|Miku|Tsumiki|
+|08|深海少女 (Shinkai Shoujo)|Deep Sea Girl|Miku|Yuuyu-P|
+|08|二息歩行 (Nisoku Hokou)|Two Breaths Walking|Miku|DECO*27|
+|08|脳内革命ガール (Nounai Kakumei Girl)|Brain Revolution Girl|Miku|MARETU|
+|08|メランコリック (Melancholic)|Melancholic|Rin|Junky|
+|08|ぽっぴっぽー (PoPiPo)|PoPiPo|Miku|LamazeP|
+|08|ドリームレス・ドリームス (Dreamless Dreams)|Dreamless Dreams|Miku|Harumaki Gohan|
+|08|裏表ラバーズ (Ura-omote Lovers)|Two-Sided Lovers|Miku|wowaka|
 |09|東京テディベア (Tokyo Teddy Bear)|Tokyo Teddy Bear|Rin|Neru|
 |10|Someday'z Coming|Someday'z Coming|Luka|Shoten Taro|
 |11|REALITY|REALITY|MEIKO, KAITO|Minus-P|
 |12|アカツキアライヴァル (Akatsuki Arrival)|Daybreak Arrival|Miku, Luka|Last Note.|
+|12|magnet|magnet|Miku, Luka|minato|
 |13|ロキ (Roki)|Roki|Rin, Len|Mikito-P|
+|13|いーあるふぁんくらぶ (Yī Èr Fanclub)|1, 2 Fanclub|Len, Rin|Mikito-P|
 |14|メズマライザー (Mesmerizer)|Mesmerizer|Miku, Teto|32ki|
 |15|Catch the Wave|Catch the Wave|Miku|kz|
+|15|セカイ (Sekai)|Sekai|Miku|kemu, DECO\*27|
 |16|Snow Fairy Story|Snow Fairy Story|Miku|40mP|
+|16|四角い地球を丸くする (Shikakui Chikyuu wo Maruku Suru)|Round Off the Square Earth|Miku|TOKOTOKO|
 |17|Intergalactic Bound|Intergalactic Bound|Miku|yunosuke, CircusP|
-|18|ゆめゆめ (Yumeyume)|Dream Dream|Miku|DECO*27|
+|17|M@GICAL☆CURE! LOVE ♥ SHOT!|M@GICAL☆CURE! LOVE ♥ SHOT!|Miku|SAWTOWNE|
+|18|ゆめゆめ (Yumeyume)|Dream Dream|Miku|DECO\*27|
 |19|SPiCa|SPiCa|Miku|Toku-P|
 |20|ODDS&ENDS|ODDS&ENDS|Miku|ryo|
 |21|THUNDERBOLT|THUNDERBOLT|Miku|jon-YAKITORY|
