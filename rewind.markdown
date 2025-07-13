@@ -596,3 +596,31 @@ any errors.
 |21|Intergalactic Bound|Intergalactic Bound|Miku|Yunosuke, CircusP|
 |22|imaginary love story|imaginary love story|Miku|Synthion|
 |23|Highlight|Highlight|Miku|KIRA|
+
+# Blooming
+
+|№ 	|Japanese, Romaji 	|English 	|Singer 	|Producer|
+| :---: | :---: | :---: | :---: | :---: |
+|01|プシ (Psi)|Psi|Miku|r-906|
+|02|エイリアンエイリアン (Alien Alien)|Alien Alien|Miku|NayutalieN|
+|03|二次元ドリームフィーバー (Nijigen Dream Fever)|2D Dream Fever|Miku|PolyphonicBranch|
+|04|キレキャリオン (Kire Carry On)|Kill Carry On|Miku|Police Piccadilly|
+|05|Fire◎Flower|Fire◎Flower|Len|haylosy|
+|06|Caged Flower|Caged Flower|KAITO|Re:nG|
+|07|夜舞うシルエット (Yomau Silhouette)|Silhouette Dancing in the Night|MEIKO|Miyamori Bungaku|
+|08|カルチャ (Culture)|Culture|Miku|Tsumiki|
+|09|東京テディベア (Tokyo Teddy Bear)|Tokyo Teddy Bear|Rin|Neru|
+|10|Someday'z Coming|Someday'z Coming|Luka|Shoten Taro|
+|11|REALITY|REALITY|MEIKO, KAITO|Minus-P|
+|12|アカツキアライヴァル (Akatsuki Arrival)|Daybreak Arrival|Miku, Luka|Last Note.|
+|13|ロキ (Roki)|Roki|Rin, Len|Mikito-P|
+|14|メズマライザー (Mesmerizer)|Mesmerizer|Miku, Teto|32ki|
+|15|Catch the Wave|Catch the Wave|Miku|kz|
+|16|Snow Fairy Story|Snow Fairy Story|Miku|40mP|
+|17|Intergalactic Bound|Intergalactic Bound|Miku|yunosuke, CircusP|
+|18|ゆめゆめ (Yumeyume)|Dream Dream|Miku|DECO*27|
+|19|SPiCa|SPiCa|Miku|Toku-P|
+|20|ODDS&ENDS|ODDS&ENDS|Miku|ryo|
+|21|THUNDERBOLT|THUNDERBOLT|Miku|jon-YAKITORY|
+|22|Blue Star|Blue Star|Miku|Hachioji-P|
+|23|Over Flow(er)|Over Flow(er)|Miku|Noz.|
