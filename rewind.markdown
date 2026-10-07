@@ -638,3 +638,42 @@ any errors.
 |21|THUNDERBOLT|THUNDERBOLT|Miku|jon-YAKITORY|
 |22|Blue Star|Blue Star|Miku|Hachioji-P|
 |23|Over Flow(er)|Over Flow(er)|Miku|Noz.|
+
+# Miku Expo 2026 North America
+
+|№ 	|Japanese, Romaji 	|English 	|Singer 	|Producer|
+| :---: | :---: | :---: | :---: | :---: |
+|01|テオ|Teo|Miku|Omoi|
+|02|気まぐれメルシィ|Kimagure Mercy|Miku|Hachioji-P|
+|02|二次元ドリームフィーバー|2D Dream Fever|Miku|PolyphonicBranch|
+|02|ラズベリー＊モンスター|Raspberry＊Monster|Miku|HoneyWorks|
+|03|カルチャ|Culture|Miku|tsumiki|
+|03|ダーリンダンス|Darling Dance|Miku|Kairiki Bear|
+|03|太陽系デスコ (Taiyoukei Disco)|Solar System Disco|Miku|Nayutalien|
+|04|ヒアソビ (Hiasobi)|Play With Fire|Miku|Camellia|
+|05|ワールズエンド・ダンスホール|World's End Dancehall|Miku, Luka|wowaka|
+|06|TYQOON|TYQOON|MEIKO|Sohbana|
+|07|劣等上等 (Rettou Joutou)|BRING IT ON|Rin, Len|Giga, Reol|
+|07|8HIT|8HIT|Rin, Len|Wonderful☆Opportunity|
+|07|ロキ|Roki|Rin, Len|mikitoP|
+|08|すーぱーぬこになれんかった (Super Nuko ni Narenkatta)|Wasn't able to become a Super Nuko.|Len|Mafumafu|
+|09|スイートマジック|Sweet Magic|Rin|Junky|
+|10|Amazing Dolce|Amazing Dolce|Rin, Len, MEIKO|Hitoshizuku-P, Yama△|
+|11|Caged Flower|Caged Flower|KAITO|Re:nG|
+|12|神っぽいな (Kamippoi na)|Goddish|Miku|Pinocchio-P|
+|13|恋は戦争 (Koi wa Sensou)|Love is War|Miku|ryo|
+|14|ツギハギスタッカート|Patchwork Staccato|Miku|toa|
+|15|Room for a Fantasy|Room for a Fantasy|Miku|nostraightanswer|
+|16|Someday'z Coming|Someday'z Coming|Luka|Shoten Taro|
+|16|Never Die|Never Die|Luka|Yuyoyuppe|
+|16|ワンダーラスト|Wanderlast|Luka|sasakure.UK|
+|17|drop pop candy|drop pop candy|Rin, Luka|Giga, Reol|
+|18|大江戸ジュリアナイト|Ohedo Julia-Night|Miku, KAITO|Mitchie M|
+|19|M@GICAL☆CURE! LOVE ♥ SHOT!|M@GICAL☆CURE! LOVE ♥ SHOT!|Miku|SAWTOWNE|
+|20|Catch the Wave|Catch the Wave|Miku|kz|
+|21|shake it!|shake it!|Miku, Rin, Len|emon(Tes.)|
+|22|39|39|Miku|sasakure.UK, DECO*27|
+|23|CONNECT:COMMUNE|CONNECT:COMMUNE|Miku|FLAVOR FOLEY|
+|24|Artifact|Artifact|Miku|buzzG|
+|25|DECORATOR|DECORATOR|Miku|kz|
+|26|ODDS&ENDS|ODDS&ENDS|Miku|ryo|
