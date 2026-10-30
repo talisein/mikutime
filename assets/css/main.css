@@ -83,3 +83,33 @@ tbody tr:nth-child(even) { background: var(--zebra); }
   font-size: 15px;
 }
 .social { list-style: none; padding: 0; margin: 0 0 8px; display: flex; flex-wrap: wrap; gap: 0 20px; }
+
+.tt-tours { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 1em; }
+.tt-tours button {
+  font: inherit;
+  color: var(--link);
+  background: none;
+  border: 1px solid var(--link);
+  border-radius: 999px;
+  padding: 4px 14px;
+  cursor: pointer;
+}
+.tt-tours button[aria-selected="true"] { color: var(--bg); background: var(--link); }
+.tt-name { color: var(--muted); margin: 0 0 0.5em; }
+.timetable td { white-space: nowrap; }
+.timetable th small { color: var(--muted); font-weight: normal; }
+.timetable tr.past { color: var(--muted); }
+.timetable .discord button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+.timetable .discord button.copied code::after { content: " copied"; color: var(--muted); }
+
+/* Not much use on a phone, and it costs the width. */
+@media (max-width: 560px) {
+  .timetable .discord { display: none; }
+}
