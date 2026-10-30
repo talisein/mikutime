@@ -19,14 +19,14 @@ set -euo pipefail
 case "$DEPLOY_TARGET" in
   cloudflare-workers)
     # Assets-only Worker described by wrangler.jsonc. Needs
-    # CLOUDFLARE_API_TOKEN (Account > Workers Scripts > Edit) and
-    # CLOUDFLARE_ACCOUNT_ID. The first deploy creates the Worker.
+    # CLOUDFLARE_API_TOKEN (Workers > Individual Workers > <name> > Editor) and
+    # CLOUDFLARE_ACCOUNT_ID; <name> below is the Worker name in wrangler.jsonc.
     : "${CLOUDFLARE_API_TOKEN:?}" "${CLOUDFLARE_ACCOUNT_ID:?}"
     if [ "$BRANCH" = main ]; then
       exec npx --yes wrangler@4 deploy --message="$COMMIT"
     fi
     # Other branches: upload a version without promoting it, reachable at
-    # <alias>-mikutime.<subdomain>.workers.dev. Aliases are DNS labels.
+    # <alias>-<name>.<subdomain>.workers.dev. Aliases are DNS labels.
     alias=$(printf '%s' "$BRANCH" | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed 's/^-*//; s/-*$//' | cut -c1-40)
     exec npx --yes wrangler@4 versions upload --preview-alias="$alias" --message="$COMMIT"
     ;;
