@@ -1,0 +1,32 @@
+baseURL = "https://mikutime.link/"
+locale = "en-us"
+title = "Miku Timezone Resources"
+
+# The site has no posts, so no feeds or taxonomy pages.
+disableKinds = ["taxonomy", "term", "rss"]
+
+[params]
+description = "Timezone-related resources for Hatsune Miku events, such as Magical Mirai and Digital Stars. Fan-made website, not affiliated with Crypton Future Media."
+
+[[params.social]]
+name = "GitHub"
+user = "talisein"
+url = "https://github.com/talisein"
+
+[[params.social]]
+name = "Mastodon"
+user = "talisein@vocalounge.cafe"
+url = "https://vocalounge.cafe/@talisein"
+
+[[params.social]]
+name = "Twitter"
+user = "talisein"
+url = "https://twitter.com/talisein"
+
+[markup.goldmark.parser]
+# Matches the anchors kramdown produced on the old Jekyll site,
+# e.g. /rewind/#miku-expo-2014-la--ny
+autoHeadingIDType = "github"
+
+[module.hugoVersion]
+min = "0.160.0"

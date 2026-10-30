@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+# Publish the built site in public/ to a static host.
+#
+# The build (hugo) knows nothing about where the site is hosted; this script
+# is the only place that does. To move hosts, add a case below, set
+# DEPLOY_TARGET in .forgejo/workflows/deploy.yml, and swap the secrets.
+#
+#   BRANCH   git branch being deployed (production branch goes live,
+#            anything else becomes a preview where the host supports it)
+#   COMMIT   commit hash, for the host's deployment log
+set -euo pipefail
+
+: "${DEPLOY_TARGET:=cloudflare-pages}"
+: "${BRANCH:?}"
+: "${COMMIT:=unknown}"
+
+[ -d public ] || { echo "public/ missing; run hugo first" >&2; exit 1; }
+
+case "$DEPLOY_TARGET" in
+  cloudflare-pages)
+    # Needs CLOUDFLARE_API_TOKEN (Account > Cloudflare Pages > Edit) and
+    # CLOUDFLARE_ACCOUNT_ID. Direct Upload project; production branch is main,
+    # other branches land at <branch>.mikutime.pages.dev.
+    : "${CLOUDFLARE_API_TOKEN:?}" "${CLOUDFLARE_ACCOUNT_ID:?}"
+    exec npx --yes wrangler@4 pages deploy public \
+      --project-name=mikutime \
+      --branch="$BRANCH" \
+      --commit-hash="$COMMIT" \
+      --commit-dirty=true
+    ;;
+  # rsync)
+  #   [ "$BRANCH" = main ] || { echo "no previews for rsync; skipping"; exit 0; }
+  #   exec rsync -rlz --delete public/ "$RSYNC_DEST"
+  #   ;;
+  *)
+    echo "unknown DEPLOY_TARGET: $DEPLOY_TARGET" >&2
+    exit 1
+    ;;
+esac

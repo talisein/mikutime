@@ -1,7 +1,9 @@
 ---
-layout: page
 title: About
-permalink: /about/
+url: /about/
+menus:
+  main:
+    weight: 10
 ---
 
 This is a fan-made website meant to provide helpful resources for Hatsune Miku

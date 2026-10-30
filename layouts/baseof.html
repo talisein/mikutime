@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.Locale | default "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ .Description | default site.Params.description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ .Description | default site.Params.description }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ site.Title }}">
+  <meta property="og:type" content="website">
+  <meta name="color-scheme" content="light dark">
+  {{- with resources.Get "css/main.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
+  {{- end }}
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrapper">
+      <a class="site-title" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
+      <nav class="site-nav">
+        {{- range site.Menus.main }}
+        <a class="page-link{{ if $.IsMenuCurrent "main" . }} current{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+        {{- end }}
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-content">
+    <div class="wrapper">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrapper">
+      <ul class="social">
+        {{- range site.Params.social }}
+        <li><a href="{{ .url }}">{{ .name }}: {{ .user }}</a></li>
+        {{- end }}
+      </ul>
+      <p class="site-description">{{ site.Params.description }}</p>
+    </div>
+  </footer>
+</body>
+</html>

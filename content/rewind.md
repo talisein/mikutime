@@ -1,7 +1,9 @@
 ---
-layout: page
 title: Miku Expo Setlists
-permalink: /rewind/
+url: /rewind/
+menus:
+  main:
+    weight: 20
 ---
 
 # Previous Miku Expo setlists {#setlists}
