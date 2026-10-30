@@ -10,23 +10,25 @@
 #   COMMIT   commit hash, for the host's deployment log
 set -euo pipefail
 
-: "${DEPLOY_TARGET:=cloudflare-pages}"
+: "${DEPLOY_TARGET:=cloudflare-workers}"
 : "${BRANCH:?}"
 : "${COMMIT:=unknown}"
 
 [ -d public ] || { echo "public/ missing; run hugo first" >&2; exit 1; }
 
 case "$DEPLOY_TARGET" in
-  cloudflare-pages)
-    # Needs CLOUDFLARE_API_TOKEN (Account > Cloudflare Pages > Edit) and
-    # CLOUDFLARE_ACCOUNT_ID. Direct Upload project; production branch is main,
-    # other branches land at <branch>.mikutime.pages.dev.
+  cloudflare-workers)
+    # Assets-only Worker described by wrangler.jsonc. Needs
+    # CLOUDFLARE_API_TOKEN (Account > Workers Scripts > Edit) and
+    # CLOUDFLARE_ACCOUNT_ID. The first deploy creates the Worker.
     : "${CLOUDFLARE_API_TOKEN:?}" "${CLOUDFLARE_ACCOUNT_ID:?}"
-    exec npx --yes wrangler@4 pages deploy public \
-      --project-name=mikutime \
-      --branch="$BRANCH" \
-      --commit-hash="$COMMIT" \
-      --commit-dirty=true
+    if [ "$BRANCH" = main ]; then
+      exec npx --yes wrangler@4 deploy --message="$COMMIT"
+    fi
+    # Other branches: upload a version without promoting it, reachable at
+    # <alias>-mikutime.<subdomain>.workers.dev. Aliases are DNS labels.
+    alias=$(printf '%s' "$BRANCH" | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed 's/^-*//; s/-*$//' | cut -c1-40)
+    exec npx --yes wrangler@4 versions upload --preview-alias="$alias" --message="$COMMIT"
     ;;
   # rsync)
   #   [ "$BRANCH" = main ] || { echo "no previews for rsync; skipping"; exit 0; }
