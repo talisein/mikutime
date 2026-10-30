@@ -6,6 +6,8 @@ title = "Miku Timezone Resources"
 disableKinds = ["taxonomy", "term", "rss"]
 
 [params]
+# Static concert JSON the timetable, songs and setlists pages read.
+concertData = "https://concert-data.39music.dance/"
 description = "Timezone-related resources for Hatsune Miku events, such as Magical Mirai and Digital Stars. Fan-made website, not affiliated with Crypton Future Media."
 
 [[params.social]]
@@ -22,11 +24,6 @@ url = "https://vocalounge.cafe/@talisein"
 name = "Twitter"
 user = "talisein"
 url = "https://twitter.com/talisein"
-
-[markup.goldmark.parser]
-# Matches the anchors kramdown produced on the old Jekyll site,
-# e.g. /rewind/#miku-expo-2014-la--ny
-autoHeadingIDType = "github"
 
 [module.hugoVersion]
 min = "0.160.0"

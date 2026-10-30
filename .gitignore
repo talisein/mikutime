@@ -1,3 +1,5 @@
 public/
 resources/_gen/
 .hugo_build.lock
+# Written by Hugo js.Build for editor import resolution.
+assets/jsconfig.json

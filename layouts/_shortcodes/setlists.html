@@ -1,0 +1,13 @@
+{{- $src := site.Params.concertData -}}
+<div class="setlists" data-src="{{ $src }}" data-songs="{{ "songs/" | relURL }}">
+  <div class="lang-row">
+    <span id="setlists-lang-label">Preferred Title Language:</span>
+    <div class="bubbles lang-picker" role="group" aria-labelledby="setlists-lang-label"></div>
+  </div>
+  <input class="data-search" type="search" placeholder="Filter: 2025, miku expo, mirai…" aria-label="Filter concerts">
+  <p class="data-count muted"></p>
+  <div class="data-body">
+    <noscript><p>The setlists need JavaScript. They are also at <a href="{{ $src }}">{{ $src }}</a>.</p></noscript>
+  </div>
+</div>
+{{- partial "script.html" "js/setlists.js" }}

@@ -84,8 +84,8 @@ tbody tr:nth-child(even) { background: var(--zebra); }
 }
 .social { list-style: none; padding: 0; margin: 0 0 8px; display: flex; flex-wrap: wrap; gap: 0 20px; }
 
-.tt-tours { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 1em; }
-.tt-tours button {
+.bubbles { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 1em; }
+.bubbles button {
   font: inherit;
   color: var(--link);
   background: none;
@@ -94,7 +94,8 @@ tbody tr:nth-child(even) { background: var(--zebra); }
   padding: 4px 14px;
   cursor: pointer;
 }
-.tt-tours button[aria-selected="true"] { color: var(--bg); background: var(--link); }
+.bubbles button[aria-selected="true"],
+.bubbles button[aria-pressed="true"] { color: var(--bg); background: var(--link); }
 .tt-name { color: var(--muted); margin: 0 0 0.5em; }
 .timetable td { white-space: nowrap; }
 .timetable th small { color: var(--muted); font-weight: normal; }
@@ -113,3 +114,38 @@ tbody tr:nth-child(even) { background: var(--zebra); }
 @media (max-width: 560px) {
   .timetable .discord { display: none; }
 }
+
+.muted { color: var(--muted); }
+.num { text-align: right; }
+
+.data-search {
+  font: inherit;
+  color: var(--text);
+  background: var(--bg);
+  width: 100%;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  padding: 8px 12px;
+}
+.data-count { margin: 0.5em 0 1em; }
+.lang-row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 1em; }
+.lang-row .bubbles { margin-bottom: 0; }
+
+/* Song titles toggle their concert list. */
+button.linkish {
+  font: inherit;
+  color: var(--link);
+  background: none;
+  border: 0;
+  padding: 0;
+  text-align: left;
+  cursor: pointer;
+}
+button.linkish:hover { text-decoration: underline; }
+.songs .song-detail td { background: var(--bg); }
+.songs .song-detail ul { margin: 0.25em 0; padding-left: 1.5em; }
+
+/* Lets the browser skip laying out the tables that are off screen. */
+.setlists section { content-visibility: auto; contain-intrinsic-size: auto 1200px; }
+.setlists section h2 { margin-bottom: 0; }
+.setlists section > p.muted { margin-top: 0.25em; }

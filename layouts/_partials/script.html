@@ -1,0 +1,4 @@
+{{- /* Bundles and includes one of the assets/js pages scripts. */ -}}
+{{- with resources.Get . | js.Build | minify | fingerprint }}
+<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
+{{- end }}

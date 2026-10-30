@@ -1,10 +1,8 @@
-{{- $src := "https://concert-data.39music.dance/" -}}
+{{- $src := site.Params.concertData -}}
 <div class="timetable" data-src="{{ $src }}">
-  <div class="tt-tours" role="tablist" aria-label="Upcoming events"></div>
+  <div class="bubbles tt-tours" role="tablist" aria-label="Upcoming events"></div>
   <div class="tt-body">
     <noscript><p>The timetable needs JavaScript. The schedule is also at <a href="{{ $src }}">{{ $src }}</a>.</p></noscript>
   </div>
 </div>
-{{- with resources.Get "js/timetable.js" | minify | fingerprint }}
-<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
-{{- end }}
+{{- partial "script.html" "js/timetable.js" }}
