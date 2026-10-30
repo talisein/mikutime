@@ -4,7 +4,10 @@
     <span id="songs-lang-label">Preferred Title Language:</span>
     <div class="bubbles lang-picker" role="group" aria-labelledby="songs-lang-label"></div>
   </div>
-  <input class="data-search" type="search" placeholder="Search by title: English, romaji or Japanese" aria-label="Search songs">
+  <div class="search-box">
+    <input class="data-search" type="search" placeholder="Search by title: English, romaji or Japanese" aria-label="Search songs">
+    <button type="button" class="search-clear" aria-label="Clear" hidden>×</button>
+  </div>
   <p class="data-count muted"></p>
   <div class="data-body">
     <noscript><p>Song search needs JavaScript. The song list is also at <a href="{{ $src }}">{{ $src }}</a>.</p></noscript>

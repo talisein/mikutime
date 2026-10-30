@@ -96,21 +96,34 @@ export function langPicker(el, onChange) {
 // pause in typing, so slow phones don't redraw on every key and Safari's
 // limit of 100 replaceState calls per 30 seconds isn't hit.
 export function bindQuery(input, onChange) {
+  const clear = input.parentElement.querySelector(".search-clear");
   // Anything typed while the data loaded wins over ?q=.
   const q = new URLSearchParams(location.search).get("q");
   if (q && !input.value) input.value = q;
   let timer;
-  input.addEventListener("input", () => {
+
+  function apply() {
     clearTimeout(timer);
-    timer = setTimeout(() => {
-      onChange(input.value);
-      const url = new URL(location.href);
-      if (input.value) url.searchParams.set("q", input.value);
-      else url.searchParams.delete("q");
-      try {
-        history.replaceState(null, "", url);
-      } catch {}
-    }, 200);
+    onChange(input.value);
+    const url = new URL(location.href);
+    if (input.value) url.searchParams.set("q", input.value);
+    else url.searchParams.delete("q");
+    try {
+      history.replaceState(null, "", url);
+    } catch {}
+  }
+
+  input.addEventListener("input", () => {
+    clear.hidden = !input.value;
+    clearTimeout(timer);
+    timer = setTimeout(apply, 200);
   });
+  clear.addEventListener("click", () => {
+    input.value = "";
+    clear.hidden = true;
+    apply();
+    input.focus();
+  });
+  clear.hidden = !input.value;
   onChange(input.value);
 }

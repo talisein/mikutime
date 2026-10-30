@@ -4,7 +4,10 @@
     <span id="setlists-lang-label">Preferred Title Language:</span>
     <div class="bubbles lang-picker" role="group" aria-labelledby="setlists-lang-label"></div>
   </div>
-  <input class="data-search" type="search" placeholder="Filter: 2025, miku expo, mirai…" aria-label="Filter concerts">
+  <div class="search-box">
+    <input class="data-search" type="search" placeholder="Filter: 2025, miku expo, mirai…" aria-label="Filter concerts">
+    <button type="button" class="search-clear" aria-label="Clear" hidden>×</button>
+  </div>
   <p class="data-count muted"></p>
   <div class="data-body">
     <noscript><p>The setlists need JavaScript. They are also at <a href="{{ $src }}">{{ $src }}</a>.</p></noscript>
