@@ -6,6 +6,9 @@
 {
   "name": "mikutime",
   "compatibility_date": "2026-10-30",
+  // workers.dev stays on: branch previews (script/deploy) live there.
+  "workers_dev": true,
+  "preview_urls": true,
   "assets": {
     "directory": "./public",
     "not_found_handling": "404-page"
