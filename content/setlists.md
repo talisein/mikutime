@@ -16,4 +16,6 @@ cleaned up to be a little more uniform. Vocawiki is licensed
 [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/). My apologies for
 any errors.
 
+*Spoiler Warning*: Setlists are displayed here immediately after they are known publically. Share responsibly.
+
 {{< setlists >}}
