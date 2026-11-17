@@ -42,7 +42,8 @@ function render(root, concerts, resolve) {
       .map(
         (c) =>
           `<section id="${esc(c.tour)}"><h2>${esc(c.name)}</h2>` +
-          `<p class="muted">${dateRange(c.date, c.last_date)} · ${esc(seriesLabel(c.series))}</p>` +
+          `<p class="muted">${dateRange(c.date, c.last_date)} · ${esc(seriesLabel(c.series))}` +
+          ` · <a href="${esc(root.dataset.releaseYear + c.tour)}">Release years</a></p>` +
           setlistTable(c, resolve, root.dataset.songs, lang) +
           "</section>",
       )

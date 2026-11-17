@@ -1,0 +1,12 @@
+{{- $src := site.Params.concertData -}}
+<div class="release-years" data-src="{{ $src }}" data-setlists="{{ "setlists/" | relURL }}" data-base="{{ "setlists/release_year/" | relURL }}">
+  <div class="lang-row">
+    <span id="release-years-lang-label">Preferred Title Language:</span>
+    <div class="bubbles lang-picker" role="group" aria-labelledby="release-years-lang-label"></div>
+  </div>
+  <div class="data-body">
+    <noscript><p>The charts need JavaScript. The data is at <a href="{{ $src }}">{{ $src }}</a>.</p></noscript>
+  </div>
+</div>
+<div id="chart-tip" role="tooltip" hidden></div>
+{{- partial "script.html" "js/release-year.js" }}

@@ -8,6 +8,7 @@
   --rule: #e8e8e8;
   --link: #2a7ae2;
   --zebra: #f5f5f5;
+  --bar: #2a78d6;
   --wrapper: 1000px;
 }
 
@@ -19,6 +20,7 @@
     --rule: #333;
     --link: #79b8ff;
     --zebra: #222;
+    --bar: #3987e5;
   }
 }
 
@@ -150,6 +152,7 @@ tbody tr:nth-child(even) { background: var(--zebra); }
 .data-count { margin: 0.5em 0 1em; }
 .lang-row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 1em; }
 .lang-row .bubbles { margin-bottom: 0; }
+.lang-row[hidden] { display: none; }
 
 /* Song titles toggle their concert list. */
 button.linkish {
@@ -169,3 +172,32 @@ button.linkish:hover { text-decoration: underline; }
 .setlists section { content-visibility: auto; contain-intrinsic-size: auto 1200px; }
 .setlists section h2 { margin-bottom: 0; }
 .setlists section > p.muted { margin-top: 0.25em; }
+
+/* Release-year chart: thin rounded bars, recessive grid. */
+.chart { display: block; max-width: 100%; height: auto; margin: 0.5em 0 1em; overflow: visible; }
+.chart .grid { stroke: var(--rule); }
+.chart .base { stroke: var(--muted); }
+.chart .tick { fill: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+.chart .val { fill: var(--text); font-size: 12px; font-variant-numeric: tabular-nums; }
+.chart .mark { fill: var(--bar); }
+.chart .hit { fill: transparent; }
+.chart .bar { cursor: default; outline: none; }
+.chart .bar:hover .hit, .chart .bar:focus .hit { fill: var(--zebra); }
+#chart-tip {
+  position: fixed;
+  z-index: 10;
+  pointer-events: none;
+  max-width: min(90vw, 360px);
+  padding: 8px 10px;
+  font-size: 14px;
+  white-space: pre-line;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+#chart-tip[hidden] { display: none; }
+#chart-tip b { display: block; }
+.release-years h2 { margin-bottom: 0; }
+.release-years h2 + p.muted { margin-top: 0.25em; }

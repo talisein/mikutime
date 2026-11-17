@@ -1,5 +1,5 @@
 {{- $src := site.Params.concertData -}}
-<div class="setlists" data-src="{{ $src }}" data-songs="{{ "songs/" | relURL }}">
+<div class="setlists" data-src="{{ $src }}" data-songs="{{ "songs/" | relURL }}" data-release-year="{{ "setlists/release_year/" | relURL }}">
   <div class="lang-row">
     <span id="setlists-lang-label">Preferred Title Language:</span>
     <div class="bubbles lang-picker" role="group" aria-labelledby="setlists-lang-label"></div>
