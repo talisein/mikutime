@@ -8,5 +8,6 @@
     <noscript><p>The charts need JavaScript. The data is at <a href="{{ $src }}">{{ $src }}</a>.</p></noscript>
   </div>
 </div>
-<div id="chart-tip" role="tooltip" hidden></div>
+{{- /* Each bar's aria-label already carries its songs. */}}
+<div id="chart-tip" aria-hidden="true" hidden></div>
 {{- partial "script.html" "js/release-year.js" }}

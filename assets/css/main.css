@@ -173,7 +173,10 @@ button.linkish:hover { text-decoration: underline; }
 .setlists section h2 { margin-bottom: 0; }
 .setlists section > p.muted { margin-top: 0.25em; }
 
-/* Release-year chart: thin rounded bars, recessive grid. */
+/* Release-year chart: thin rounded bars, recessive grid. The chart's
+   height follows its width, so a scrollbar appearing would change the width
+   and redraw it again; reserve the gutter instead. */
+html:has(.release-years) { scrollbar-gutter: stable; }
 .chart { display: block; max-width: 100%; height: auto; margin: 0.5em 0 1em; overflow: visible; }
 .chart .grid { stroke: var(--rule); }
 .chart .base { stroke: var(--muted); }
@@ -182,11 +185,13 @@ button.linkish:hover { text-decoration: underline; }
 .chart .mark { fill: var(--bar); }
 .chart .hit { fill: transparent; }
 .chart .bar { cursor: default; outline: none; }
-.chart .bar:hover .hit, .chart .bar:focus .hit { fill: var(--zebra); }
+.chart .bar:hover .hit, .chart .bar:focus-visible .hit { fill: var(--zebra); }
+.chart .bar:focus-visible .hit { stroke: var(--link); stroke-width: 2; }
 #chart-tip {
   position: fixed;
   z-index: 10;
   pointer-events: none;
+  width: max-content;
   max-width: min(90vw, 360px);
   padding: 8px 10px;
   font-size: 14px;
